@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Used Car Price Predictor - UAE</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            background-image: url("/static/bg.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            backdrop-filter: blur(5px);
+            color: #fff;
+        }
+        .container {
+            background-color: rgba(0, 0, 0, 0.6);
+            border-radius: 15px;
+            padding: 30px;
+            margin-top: 50px;
+        }
+        .form-label {
+            color: #fff;
+        }
+        .result-box {
+            background-color: #198754;
+            padding: 10px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="text-center mb-4">UAE Used Car Price Predictor</h1>
+        <form action="/predictdata" method="POST">
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label for="Make" class="form-label">Make</label>
+                    <input list="makeList" name="Make" id="Make" class="form-control" required onchange="loadModels(this.value)">
+                    <datalist id="makeList">
+                        {% for make in make_options %}
+                        <option value="{{ make }}">{{ make }}</option>
+                        {% endfor %}
+                    </datalist>
+                </div>
+                <div class="col-md-6">
+                    <label for="Model" class="form-label">Model</label>
+                    <input list="modelList" name="Model" id="Model" class="form-control" required>
+                    <datalist id="modelList"></datalist>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label for="Mileage" class="form-label">Mileage</label>
+                    <input type="number" step="0.1" name="Mileage" class="form-control" required>
+                </div>
+                <div class="col-md-4">
+                    <label for="Year" class="form-label">Year</label>
+                    <input type="number" name="Year" class="form-control" required>
+                </div>
+                <div class="col-md-4">
+                    <label for="Cylinders" class="form-label">Cylinders</label>
+                    <input type="number" name="Cylinders" class="form-control" required>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label for="Body_Type" class="form-label">Body Type</label>
+                    <input list="bodyTypeList" name="Body_Type" class="form-control" required>
+                    <datalist id="bodyTypeList">
+                        {% for option in body_type_options %}
+                        <option value="{{ option }}">{{ option }}</option>
+                        {% endfor %}
+                    </datalist>
+                </div>
+                <div class="col-md-4">
+                    <label for="Fuel_Type" class="form-label">Fuel Type</label>
+                    <input list="fuelTypeList" name="Fuel_Type" class="form-control" required>
+                    <datalist id="fuelTypeList">
+                        {% for option in fuel_type_options %}
+                        <option value="{{ option }}">{{ option }}</option>
+                        {% endfor %}
+                    </datalist>
+                </div>
+                <div class="col-md-4">
+                    <label for="Transmission" class="form-label">Transmission</label>
+                    <input list="transmissionList" name="Transmission" class="form-control" required>
+                    <datalist id="transmissionList">
+                        {% for option in transmission_options %}
+                        <option value="{{ option }}">{{ option }}</option>
+                        {% endfor %}
+                    </datalist>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label for="Location" class="form-label">Location</label>
+                    <input list="locationList" name="Location" class="form-control" required>
+                    <datalist id="locationList">
+                        {% for option in location_options %}
+                        <option value="{{ option }}">{{ option }}</option>
+                        {% endfor %}
+                    </datalist>
+                </div>
+                <div class="col-md-6">
+                    <label for="Color" class="form-label">Color</label>
+                    <input list="colorList" name="Color" class="form-control" required>
+                    <datalist id="colorList">
+                        {% for option in color_options %}
+                        <option value="{{ option }}">{{ option }}</option>
+                        {% endfor %}
+                    </datalist>
+                </div>
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary px-5">Predict Price</button>
+            </div>
+        </form>
+
+        {% if results %}
+        <div class="text-center result-box">
+            <h4>Estimated Price: <strong>AED {{ results }}</strong></h4>
+        </div>
+        {% endif %}
+    </div>
+
+    <script>
+        function loadModels(make) {
+            fetch(`/get_models/${make}`)
+                .then(response => response.json())
+                .then(data => {
+                    let modelList = document.getElementById("modelList");
+                    modelList.innerHTML = "";
+                    data.forEach(model => {
+                        let option = document.createElement("option");
+                        option.value = model;
+                        modelList.appendChild(option);
+                    });
+                });
+        }
+    </script>
+</body>
+
+</html>

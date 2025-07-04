@@ -78,7 +78,7 @@ class ModelTrainer:
                 "KNeighborsRegressor": {
                     'n_neighbors': [3, 5, 7, 9],
                     'weights': ['uniform', 'distance'],
-                    'algorithm': ['auto', 'ball_tree', 'kd_tree', 'brute']
+                    'algorithm': ['brute']
                 }       
             }
 
