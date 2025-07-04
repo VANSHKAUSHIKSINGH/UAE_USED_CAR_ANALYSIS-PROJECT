@@ -1,0 +1,19 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+catboost
+xgboost
+Flask
+gunicorn
+flask-cors
+requests
+jupyter
+mlflow
+dagshub
+statsmodels
+category_encoders
+dill
+# -e.

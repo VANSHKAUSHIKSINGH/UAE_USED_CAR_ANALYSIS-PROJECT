@@ -11,12 +11,12 @@ project_name = 'UAE_CAR_PRICE_PREDICTION'
 # List of required files and directories
 list_of_files = [
     ".github/workflows/.gitkeep",
-    f"src/{project_name}/__init__.py",
-    f"src/{project_name}/components/__init__.py",
-    f"src/{project_name}/pipeline/__init__.py",
-    f"src/{project_name}/utils.py",
-    f"src/{project_name}/logger.py",
-    f"src/{project_name}/exception.py",
+    f"src/__init__.py",
+    f"src/components/__init__.py",
+    f"src/pipeline/__init__.py",
+    f"src/utils.py",
+    f"src/logger.py",
+    f"src/exception.py",
     "notebook/data/.gitkeep",
     "notebook/EDA_Price_Prediction.ipynb",
     "requirements.txt",

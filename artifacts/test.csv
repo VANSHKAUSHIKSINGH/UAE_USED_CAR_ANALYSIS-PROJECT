@@ -1,0 +1,2001 @@
+Make,Model,Year,Price,Mileage,Body_Type,Cylinders,Transmission,Fuel_Type,Color,Location
+tesla,model-3,2024,294670,170634,Sedan,4,Automatic Transmission,Electric,White, Dubai
+lexus,is-series,2012,21786,294740,Sedan,6,Automatic Transmission,Gasoline,Red, Sharjah
+ford,edge,2013,98031,296467,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+toyota,land-cruiser,2020,257844,291575,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+ferrari,roma,2016,1220193,160562,Coupe,8,Automatic Transmission,Gasoline,Red, Dubai
+porsche,boxster,2017,223355,117907,Soft Top Convertible,6,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,x-trail,2018,54342,257318,SUV,4,Automatic Transmission,Gasoline,White, Abu Dhabi
+rolls-royce,cullinan,2020,2221436,210317,SUV,12,Automatic Transmission,Gasoline,Black, Dubai
+nissan,x-trail,2007,18031,185005,SUV,4,Automatic Transmission,Gasoline,Silver, Dubai
+nissan,navara,2005,41099,21656,Pick Up Truck,4,Manual Transmission,Gasoline,White, Dubai
+bmw,3-series,2008,152676,55371,Sedan,4,Automatic Transmission,Gasoline,White, Abu Dhabi
+land-rover,range-rover-sport,2005,300468,140006,SUV,8,Automatic Transmission,Gasoline,White, Sharjah
+toyota,hiace,2006,110237,21077,Van,6,Manual Transmission,Gasoline,White, Dubai
+land-rover,range-rover,2008,223776,105681,SUV,8,Automatic Transmission,Gasoline,Red, Dubai
+mitsubishi,l200,2014,42223,285609,Pick Up Truck,4,Manual Transmission,Gasoline,White, Dubai
+volkswagen,gti,2012,204763,101429,Hatchback,4,Automatic Transmission,Gasoline,Other Color, Dubai
+land-rover,range-rover-evoque,2006,55965,261622,SUV,6,Automatic Transmission,Gasoline,Black, Sharjah
+nissan,murano,2012,40937,218605,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+ferrari,812-gts,2006,2603943,260340,Hard Top Convertible,12,Automatic Transmission,Gasoline,Red, Dubai
+ford,mustang,2017,158678,111541,Coupe,8,Manual Transmission,Gasoline,Black, Dubai
+jeep,grand-cherokee,2022,177197,226249,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,gla,2007,91232,258224,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+volkswagen,jetta,2017,30133,58939,Sedan,4,Automatic Transmission,Gasoline,Burgundy, Dubai
+bentley,continental,2019,441007,17782,Sports Car,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,land-cruiser,2012,167030,93310,Pick Up Truck,6,Manual Transmission,Gasoline,Burgundy, Dubai
+land-rover,discovery-sport,2012,70730,151824,Crossover,4,Automatic Transmission,Gasoline,Black, Dubai
+fiat,500x,2015,44782,36108,Coupe,4,Manual Transmission,Gasoline,Red,Ajman
+lexus,rx-series,2021,52528,216050,Crossover,6,Automatic Transmission,Gasoline,Silver, Dubai
+land-rover,range-rover-sport,2005,239612,180083,SUV,8,Automatic Transmission,Diesel,White, Dubai
+bmw,x7,2013,487813,257734,SUV,8,Automatic Transmission,Gasoline,Other Color, Dubai
+mercedes-benz,s-class,2012,57996,107641,Sedan,6,Automatic Transmission,Gasoline,Brown, Abu Dhabi
+bentley,bentayga,2008,1381048,266813,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover-sport,2019,436190,167337,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+audi,s7rs7,2019,711127,44773,Sedan,8,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,e-class,2014,151410,239350,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,x-trail,2005,88256,125956,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+audi,other,2009,134689,69182,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+bmw,7-series,2008,132980,286429,Sedan,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+audi,q7,2021,55569,51945,SUV,6,Automatic Transmission,Gasoline,Tan, Dubai
+mini,cooper,2009,92888,258900,Hatchback,4,Automatic Transmission,Gasoline,Blue, Dubai
+gmc,yukon,2008,125335,262777,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+dodge,charger,2022,31252,276604,Sedan,8,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+jeep,wrangler-unlimited,2020,82221,135037,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+bmw,z4,2015,264983,123677,Soft Top Convertible,6,Automatic Transmission,Gasoline,Red, Dubai
+toyota,hilux,2013,37056,215742,Pick Up Truck,4,Manual Transmission,Gasoline,White, Dubai
+ford,edge,2018,183374,265019,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,a-class,2005,59171,203111,Hatchback,4,Automatic Transmission,Gasoline,Red, Abu Dhabi
+jaguar,xe,2015,66488,200976,Sedan,4,Automatic Transmission,Gasoline,Green, Dubai
+land-rover,range-rover-sport,2024,528948,225643,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,hiace,2014,17818,289921,Hatchback,4,Manual Transmission,Gasoline,White,Abu Dhabi
+lexus,gs-series,2009,58468,88739,Sedan,6,Automatic Transmission,Gasoline,Beige, Dubai
+toyota,prado,2005,42415,269777,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+toyota,hilux,2014,113818,195989,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+hummer,h3,2006,20256,295116,SUV,8,Automatic Transmission,Gasoline,Other Color, Dubai
+maserati,other,2009,1333297,277101,Coupe,8,Automatic Transmission,Gasoline,Blue, Dubai
+bmw,2-series,2017,146519,171131,Sedan,3,Automatic Transmission,Gasoline,Black, Dubai
+jeep,grand-cherokee,2006,35634,299920,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mitsubishi,pajero,2017,36816,34073,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,range-rover,2008,546850,202726,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,g-class,2022,780596,239986,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+nissan,juke,2022,39316,82532,Crossover,4,Automatic Transmission,Gasoline,Black, Dubai
+mclaren,p1,2020,14686975,120376,Sports Car,8,Automatic Transmission,Hybrid,Yellow, Dubai
+toyota,86,2024,81987,131352,Coupe,4,Automatic Transmission,Gasoline,Other Color, Dubai
+cadillac,escalade,2010,569875,296315,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover-sport,2015,129562,285154,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,s-class,2022,156314,142211,Sedan,6,Automatic Transmission,Gasoline,Grey, Sharjah
+porsche,macan,2010,172254,230516,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+mitsubishi,pajero,2014,18045,79112,SUV,6,Automatic Transmission,Gasoline,Beige, Abu Dhabi
+audi,a3,2014,47594,271489,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,a200,2012,112449,45346,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+mercedes-benz,c-class,2007,119067,136463,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+bmw,5-series,2007,151016,225088,Sedan,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+bmw,x5,2015,235558,272306,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+nissan,patrol,2010,132070,109315,SUV,6,Manual Transmission,Gasoline,Black, Abu Dhabi
+nissan,altima,2012,51513,239842,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+peugeot,partner,2008,36495,269773,Van,4,Manual Transmission,Gasoline,White, Abu Dhabi
+mitsubishi,pajero,2016,79558,19576,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+kia,mohave,2017,34076,30755,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,s-class,2012,35683,26515,Sedan,8,Automatic Transmission,Gasoline,Silver, Dubai
+ford,explorer,2019,57220,103509,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+mclaren,other,2011,642874,45452,Coupe,8,Automatic Transmission,Gasoline,Orange, Dubai
+mercedes-benz,glc,2024,206656,252478,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,sentra,2009,38730,176922,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+land-rover,range-rover-sport,2011,282841,223846,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+hyundai,veloster,2018,33747,115761,Hatchback,4,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,g-class,2024,1574901,183143,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+cadillac,escalade,2022,246313,68074,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+nissan,maxima,2020,84563,110797,Sedan,6,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+porsche,macan,2008,309049,201131,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+daihatsu,gran-max,2009,25893,117581,Van,4,Automatic Transmission,Gasoline,White, Dubai
+mazda,cx-9,2007,40846,58898,SUV,6,Automatic Transmission,Gasoline,White, Sharjah
+audi,q3,2016,160384,102898,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,gls-class,2021,1465751,196778,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,s-class-coupe,2024,321188,296027,Coupe,8,Automatic Transmission,Gasoline,White, Dubai
+jeep,grand-cherokee,2017,187876,10986,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+dodge,charger,2013,32101,29625,Sedan,8,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+land-rover,discovery-sport,2024,169093,233719,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+dodge,challenger,2005,98342,254886,Sports Car,8,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,s-class,2009,279558,245656,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+isuzu,other,2021,77367,35033,Utility Truck,4,Manual Transmission,Gasoline,White, Dubai
+dodge,durango,2022,25139,276134,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+chevrolet,tahoe,2018,92769,131536,SUV,8,Automatic Transmission,Gasoline,Silver, Ajman
+bmw,x1,2008,59014,142359,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+audi,a8,2024,65941,261536,Sedan,8,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,range-rover-sport,2010,156392,17891,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+gmc,acadia,2011,25670,221834,SUV,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+porsche,boxster,2010,210543,276046,Coupe,4,Automatic Transmission,Gasoline,Black, Dubai
+kia,optima,2016,44679,191634,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,tundra,2017,170289,214516,Pick Up Truck,8,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,gls-class,2024,1338458,173840,SUV,8,Automatic Transmission,Gasoline,Green, Dubai
+jeep,grand-cherokee,2014,66051,234261,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+chevrolet,silverado,2013,67330,194191,SUV,6,Automatic Transmission,Gasoline,Brown, Sharjah
+lexus,es-series,2016,248448,57765,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+rolls-royce,ghost,2009,1363673,12568,Sedan,12,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2023,66368,61182,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,range-rover,2016,365038,178947,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+gmc,acadia,2006,72659,182016,SUV,6,Automatic Transmission,Gasoline,White, Sharjah
+nissan,navara,2015,44658,221559,Pick Up Truck,4,Manual Transmission,Gasoline,White, Abu Dhabi
+nissan,maxima,2022,93793,48400,Sedan,6,Automatic Transmission,Gasoline,Grey, Sharjah
+ford,focus,2009,18520,141365,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,s-class,2017,1656312,288623,Sedan,12,Automatic Transmission,Gasoline,White, Dubai
+maserati,levante,2010,277273,70326,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,camry,2009,43852,242498,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+porsche,cayenne,2022,70600,244689,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mitsubishi,pajero,2009,17645,103277,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,gle-class,2008,158640,284714,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+renault,captur,2015,32374,183962,Hatchback,4,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+suzuki,jimny,2008,87435,52381,SUV,4,Automatic Transmission,Gasoline,Blue, Dubai
+nissan,sunny,2021,31462,95440,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+nissan,maxima,2012,68120,133069,Sedan,6,Automatic Transmission,Gasoline,Red, Dubai
+volkswagen,passat,2007,23122,269337,Sedan,5,Automatic Transmission,Gasoline,Silver, Ajman
+jaguar,xkr,2010,57515,202961,Coupe,8,Automatic Transmission,Gasoline,White, Dubai
+rolls-royce,phantom,2010,2556825,190584,Sedan,12,Automatic Transmission,Gasoline,Grey, Dubai
+ford,f-series-pickup,2020,230478,188727,Pick Up Truck,6,Automatic Transmission,Gasoline,Black, Dubai
+dodge,ram,2013,109270,40410,Sedan,8,Automatic Transmission,Gasoline,White, Sharjah
+ford,mustang,2006,50404,291868,Sports Car,6,Automatic Transmission,Gasoline,Red, Abu Dhabi
+jaguar,xf,2019,78046,234589,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+chevrolet,aveo,2023,27985,21578,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+audi,a8,2019,39080,38388,Sedan,8,Automatic Transmission,Gasoline,Black, Abu Dhabi
+infiniti,q80,2013,133077,77351,SUV,8,Automatic Transmission,Gasoline,Silver, Dubai
+infiniti,qx56,2007,18535,42670,SUV,8,Automatic Transmission,Gasoline,Silver, Sharjah
+mercedes-benz,c-class,2017,170367,122681,Sedan,4,Automatic Transmission,Gasoline,Black, Abu Dhabi
+audi,q7,2010,254774,189165,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+kia,sorento,2018,12803,287736,Sedan,6,Automatic Transmission,Gasoline,Silver, Dubai
+toyota,fj-cruiser,2005,44890,130180,SUV,6,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+mercedes-benz,e-class,2016,288834,102766,Sedan,4,Automatic Transmission,Gasoline,Blue, Sharjah
+mitsubishi,montero-sport,2011,58165,252214,Crossover,6,Automatic Transmission,Gasoline,White, Sharjah
+volkswagen,touareg,2020,100355,132068,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+bmw,3-series,2009,113677,23146,Sedan,3,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,pathfinder,2005,34494,142898,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+gmc,yukon,2007,118700,215820,SUV,8,Automatic Transmission,Gasoline,White, Sharjah
+mercedes-benz,e-class,2018,57056,183831,Coupe,6,Automatic Transmission,Gasoline,White, Dubai
+jeep,wrangler,2011,118087,224754,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,e-class,2020,80733,293677,Coupe,6,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,e-class,2024,44547,282640,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+lexus,ux-200,2005,196583,189507,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+audi,a6,2016,49568,290171,Sedan,4,Automatic Transmission,Gasoline,Black,Abu Dhabi
+mercedes-benz,g-class,2011,494348,140824,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,pathfinder,2011,64462,142709,SUV,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+maserati,levante,2017,176254,134007,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+chevrolet,corvette,2015,162913,215495,Hard Top Convertible,8,Manual Transmission,Gasoline,Red, Dubai
+bentley,continental-gt,2019,1465631,293799,Hard Top Convertible,12,Automatic Transmission,Gasoline,White, Dubai
+toyota,prado,2008,74539,293348,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,g-class,2012,196384,181938,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+rolls-royce,cullinan,2019,2455871,82754,SUV,12,Automatic Transmission,Gasoline,Black, Dubai
+infiniti,qx70,2017,65084,232545,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+bmw,7-series,2010,194394,142215,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,land-cruiser,2010,111713,162166,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+toyota,yaris,2005,38931,274412,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+infiniti,q80,2014,130654,249357,SUV,8,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+nissan,sentra,2015,33134,234235,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+ford,edge,2020,87458,151801,SUV,4,Automatic Transmission,Gasoline,Silver, Dubai
+toyota,rav-4,2016,99332,201914,SUV,4,Automatic Transmission,Gasoline,Silver, Dubai
+bmw,8-series,2022,396256,270782,Coupe,8,Automatic Transmission,Gasoline,Blue, Dubai
+jeep,grand-cherokee,2011,78427,202693,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+nissan,navara,2013,36465,75699,Pick Up Truck,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,e-class,2012,119781,245407,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,range-rover,2017,432972,154026,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+nissan,patrol,2016,130789,150152,SUV,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+bmw,x5,2021,148314,21160,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mitsubishi,montero-sport,2020,59430,35046,Crossover,6,Automatic Transmission,Gasoline,White, Sharjah
+dodge,ram,2016,102844,140034,Pick Up Truck,8,Automatic Transmission,Gasoline,Silver,Al Ain
+porsche,boxster,2017,216422,38736,Soft Top Convertible,4,Automatic Transmission,Gasoline,Black, Dubai
+jeep,grand-cherokee,2022,291349,140726,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,hiace,2014,61837,51123,Van,4,Manual Transmission,Gasoline,White, Dubai
+bmw,6-series,2019,59868,238495,Sedan,6,Automatic Transmission,Gasoline,Gold, Dubai
+bmw,x4,2016,298483,68790,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,land-cruiser,2006,25827,109784,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+toyota,rav-4,2010,71008,107396,SUV,4,Automatic Transmission,Gasoline,White, Sharjah
+porsche,boxster,2010,343726,31881,Coupe,4,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,glb,2022,156054,169669,Crossover,4,Automatic Transmission,Gasoline,Silver, Dubai
+ford,mustang,2023,44126,195004,Sports Car,6,Automatic Transmission,Gasoline,Red, Abu Dhabi
+volkswagen,id6,2016,162067,144426,Crossover,4,Automatic Transmission,Electric,Other Color, Dubai
+maserati,quattroporte,2013,212450,254379,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+lamborghini,urus,2013,2135621,162254,SUV,8,Automatic Transmission,Gasoline,Yellow, Dubai
+jeep,wrangler-unlimited,2020,114810,128916,Hard Top Convertible,6,Automatic Transmission,Gasoline,Blue, Dubai
+porsche,carrera,2009,274571,75006,Coupe,6,Automatic Transmission,Gasoline,Red, Dubai
+rolls-royce,cullinan,2013,2326480,74511,SUV,12,Automatic Transmission,Gasoline,Grey, Dubai
+mitsubishi,asx,2012,50804,272594,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+ford,mustang,2011,226904,116647,Coupe,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,g-class,2018,1056861,271366,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+lincoln,continental,2021,87198,227080,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2020,79833,101268,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+volkswagen,jetta,2015,47540,228951,Sedan,5,Automatic Transmission,Gasoline,Silver, Sharjah
+mini,mini-coupe,2007,53517,222725,Coupe,4,Automatic Transmission,Gasoline,Beige, Dubai
+mercedes-benz,e-class,2018,40765,239633,Sedan,6,Automatic Transmission,Gasoline,Silver, Dubai
+nissan,altima,2014,49328,279463,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+mercedes-benz,a-class,2012,154418,194944,Hatchback,4,Automatic Transmission,Gasoline,White, Dubai
+bentley,continental,2018,433761,257171,Sports Car,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,camry,2007,10588,240470,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+kia,sorento,2005,17696,294953,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+ford,edge,2023,33969,186608,SUV,6,Automatic Transmission,Gasoline,Brown, Abu Dhabi
+mercedes-benz,g-class,2018,622776,132351,SUV,8,Automatic Transmission,Gasoline,Green, Dubai
+porsche,panamera,2018,103256,236029,Sedan,8,Automatic Transmission,Gasoline,Silver, Dubai
+jeep,grand-cherokee,2008,235117,13177,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover,2014,432417,150255,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+mini,countryman,2006,86816,157503,Hatchback,4,Automatic Transmission,Gasoline,Silver, Dubai
+nissan,altima,2018,29948,166361,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+volkswagen,touareg,2023,83927,125881,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+lexus,ls-series,2021,65733,187422,Sedan,8,Automatic Transmission,Gasoline,Silver, Dubai
+infiniti,q70,2005,83631,247070,Sedan,6,Automatic Transmission,Gasoline,Black, Abu Dhabi
+ford,explorer,2020,61792,148545,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+hyundai,santa-fe,2017,51179,46569,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+nissan,maxima,2007,64795,135292,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+audi,a5,2015,234362,277917,Hatchback,4,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+mercedes-benz,c-class,2022,183015,125734,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+infiniti,q80,2024,254788,138665,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mazda,cx-5,2017,102780,116561,SUV,4,Automatic Transmission,Gasoline,Red, Dubai
+tesla,model-3,2024,165898,184924,Sedan,4,Automatic Transmission,Electric,Black, Dubai
+mercedes-benz,c-class,2018,93216,79891,Sedan,4,Automatic Transmission,Gasoline,Blue, Dubai
+infiniti,ex35,2017,29084,166471,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+toyota,fortuner,2011,62214,249260,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,pathfinder,2021,16911,264805,SUV,6,Automatic Transmission,Gasoline,Burgundy, Dubai
+mercedes-benz,s-class,2006,147619,160196,Sedan,8,Automatic Transmission,Gasoline,Blue, Dubai
+mitsubishi,attrage,2007,41078,251522,Sedan,3,Automatic Transmission,Gasoline,White, Dubai
+toyota,land-cruiser,2020,394399,76863,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+porsche,macan,2006,206330,100262,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,hilux,2011,97124,101943,Pick Up Truck,4,Manual Transmission,Gasoline,White, Dubai
+toyota,land-cruiser,2017,357102,267243,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+bmw,4-series,2015,282187,67391,Coupe,4,Automatic Transmission,Gasoline,Blue, Dubai
+porsche,boxster,2019,247108,166888,Soft Top Convertible,4,Automatic Transmission,Gasoline,White, Dubai
+alfa-romeo,giulietta,2019,92116,110078,Hatchback,4,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,s-class-coupe,2012,354906,110402,Coupe,8,Automatic Transmission,Gasoline,Grey, Dubai
+gmc,sierra,2022,173492,65325,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+bmw,5-series,2020,70447,258045,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+ford,mustang,2005,70453,238586,Sports Car,6,Automatic Transmission,Gasoline,Red, Dubai
+cadillac,escalade,2019,241459,176683,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+ford,fusion,2016,45537,105192,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+kia,sorento,2023,56233,129232,Other,4,Automatic Transmission,Gasoline,Grey, Dubai
+honda,hr-v,2012,63163,295038,SUV,4,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,hilux,2019,75962,177599,Pick Up Truck,4,Automatic Transmission,Gasoline,White, Dubai
+jaguar,e-pace,2017,144665,274227,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+morgan,aero-8,2007,821051,118952,Hard Top Convertible,8,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,tundra,2022,85986,240027,Pick Up Truck,8,Automatic Transmission,Gasoline,Black, Sharjah
+lamborghini,urus,2014,1405908,157213,SUV,8,Automatic Transmission,Gasoline,Green, Dubai
+hyundai,sonata,2016,31931,195326,Sedan,4,Automatic Transmission,Gasoline,Other Color, Dubai
+mini,cooper,2005,27757,37980,Hatchback,4,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+toyota,prado,2010,46461,63092,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+toyota,camry,2013,37594,75327,Sedan,4,Automatic Transmission,Gasoline,Grey, Sharjah
+jeep,grand-cherokee,2015,31311,250073,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,gla,2024,113899,121997,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+bmw,4-series,2008,186590,129089,Coupe,6,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,s-class,2021,205382,47984,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+jeep,gladiator,2007,191242,230196,Pick Up Truck,6,Automatic Transmission,Gasoline,Black, Dubai
+toyota,fj-cruiser,2011,132848,210716,SUV,6,Automatic Transmission,Gasoline,Black, Abu Dhabi
+gmc,yukon,2020,122544,296185,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+bmw,6-series,2011,34433,174935,Coupe,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,altima,2016,75814,255171,Sedan,4,Automatic Transmission,Gasoline,Silver, Sharjah
+toyota,land-cruiser,2013,28672,236307,Crossover,6,Automatic Transmission,Gasoline,Silver, Sharjah
+bmw,x4,2008,252251,280238,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+honda,cr-v,2011,88308,150468,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+infiniti,g25,2022,39365,218046,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+ford,mustang,2008,77575,138069,Sports Car,4,Automatic Transmission,Gasoline,Red, Dubai
+nissan,quest,2019,31666,70112,Van,6,Automatic Transmission,Gasoline,Silver, Dubai
+rolls-royce,cullinan,2009,1876401,121489,SUV,12,Automatic Transmission,Gasoline,Black, Dubai
+infiniti,qx70,2012,77749,197268,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2012,104427,116170,SUV,6,Automatic Transmission,Gasoline,White, Ajman
+porsche,panamera,2023,372478,78888,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,c-class,2022,247339,171855,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+audi,a8,2012,46571,78199,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,s-class,2024,70122,138859,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+peugeot,expert,2009,31223,72164,Utility Truck,4,Automatic Transmission,Diesel,White, Dubai
+bentley,continental-flying-spur,2020,1345545,128476,Sedan,12,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover,2020,182803,111774,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+honda,accord,2015,67429,45097,Sedan,4,Automatic Transmission,Gasoline,Black, Sharjah
+mercedes-benz,g-class,2011,1090726,291792,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+hyundai,h1,2021,23182,229383,SUV,4,Manual Transmission,Gasoline,White, Dubai
+honda,civic,2006,49689,180356,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,cls-class,2005,185000,132083,Sedan,8,Automatic Transmission,Gasoline,Silver, Ajman
+ferrari,458-spider,2024,604652,278855,Hard Top Convertible,8,Automatic Transmission,Gasoline,Red, Dubai
+toyota,prado,2007,65313,127608,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+jaguar,e-pace,2024,222273,258539,SUV,4,Automatic Transmission,Gasoline,Red, Dubai
+lincoln,mkx,2021,46936,229991,SUV,6,Automatic Transmission,Gasoline,Gold, Abu Dhabi
+mercedes-benz,e-class,2020,77029,61792,Sedan,4,Automatic Transmission,Gasoline,Brown, Dubai
+genesis,g70,2013,80496,178806,Sedan,6,Automatic Transmission,Gasoline,Green, Ajman
+dodge,charger,2011,15263,166762,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+mitsubishi,lancer,2007,29739,281661,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+rolls-royce,cullinan,2017,2515401,112046,SUV,12,Automatic Transmission,Gasoline,Black, Dubai
+ford,mustang,2014,61166,277163,Sports Car,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,a200,2022,102666,117326,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+peugeot,207,2013,17772,190410,Hatchback,4,Automatic Transmission,Gasoline,Blue, Dubai
+chevrolet,optra,2009,10214,62683,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2012,362739,22709,SUV,8,Automatic Transmission,Gasoline,Beige, Dubai
+lexus,lx600,2023,768132,196422,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2006,68580,50462,SUV,8,Automatic Transmission,Gasoline,Gold, Dubai
+audi,q8,2009,484730,21887,SUV,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+mitsubishi,pajero,2022,36853,262554,SUV,6,Automatic Transmission,Gasoline,Gold, Dubai
+nissan,pathfinder,2009,38711,290446,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+volkswagen,touareg,2014,42325,53936,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+hyundai,palisade,2023,180372,158714,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,m-class,2019,36354,95291,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+bmw,8-series,2010,375911,287585,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+bmw,7-series,2007,84503,230085,Sedan,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+ford,fusion,2015,25972,94498,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+mclaren,570gt,2011,552371,18720,Coupe,8,Automatic Transmission,Gasoline,Purple, Dubai
+land-rover,range-rover-sport,2006,168008,20741,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,g-class,2018,1685770,60528,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,gls-class,2021,618985,75897,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+nissan,altima,2011,16609,112191,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover,2020,619653,242479,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+ferrari,f12,2017,536935,270661,Coupe,12,Automatic Transmission,Gasoline,White, Dubai
+mitsubishi,lancer,2012,33234,206390,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+land-rover,defender,2011,420604,219035,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mclaren,mp412c,2011,280834,235047,Coupe,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,gle-class,2012,65443,280876,Other,6,Automatic Transmission,Gasoline,Black, Dubai
+volkswagen,touareg,2006,71784,181209,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,armada,2015,32706,13018,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+hyundai,santa-fe,2018,44374,227481,Sports Car,6,Automatic Transmission,Gasoline,White, Dubai
+infiniti,qx60,2010,60391,169151,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+honda,civic,2024,31586,254881,Sedan,4,Automatic Transmission,Gasoline,Burgundy, Dubai
+lincoln,mkx,2017,74423,141565,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,s-class,2016,664837,291141,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,glc,2019,107969,275872,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+infiniti,fx45fx35,2008,53015,177977,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mclaren,mp412c,2007,284413,41433,Coupe,8,Automatic Transmission,Gasoline,Orange, Dubai
+lincoln,navigator,2011,298589,270671,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+bmw,x5,2014,467876,73805,SUV,8,Automatic Transmission,Gasoline,Other Color, Dubai
+toyota,camry,2014,36312,19115,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mg,rx5,2016,63302,277240,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+porsche,cayenne,2019,40719,277810,Crossover,6,Automatic Transmission,Gasoline,Grey, Dubai
+porsche,cayman,2012,429749,96318,Coupe,6,Automatic Transmission,Gasoline,Grey, Dubai
+porsche,cayenne,2023,75500,201710,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+chevrolet,camaro,2021,45727,102767,Coupe,6,Automatic Transmission,Gasoline,Red, Dubai
+suzuki,jimny,2019,72082,241466,Coupe,4,Automatic Transmission,Gasoline,Black, Dubai
+nissan,sentra,2014,36955,70520,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,tahoe,2010,33661,188417,SUV,8,Automatic Transmission,Gasoline,Black, Abu Dhabi
+bmw,6-series,2013,108792,145585,Sedan,6,Automatic Transmission,Gasoline,Blue, Dubai
+audi,a6,2013,64578,188685,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+lexus,ls-series,2011,81933,84619,Sedan,8,Automatic Transmission,Gasoline,Silver, Sharjah
+chevrolet,tahoe,2015,38353,174899,SUV,8,Automatic Transmission,Gasoline,Black, Sharjah
+mercedes-benz,e-class,2010,47324,286669,Coupe,6,Automatic Transmission,Gasoline,Red, Dubai
+infiniti,jxseries,2011,47693,250223,SUV,6,Automatic Transmission,Gasoline,White,Abu Dhabi
+nissan,x-trail,2017,91972,206458,SUV,4,Automatic Transmission,Gasoline,Red, Dubai
+nissan,x-trail,2007,54895,277561,SUV,4,Automatic Transmission,Gasoline,Red, Dubai
+chevrolet,corvette,2011,189199,224507,Sports Car,8,Automatic Transmission,Gasoline,Black, Sharjah
+land-rover,range-rover,2022,36489,55948,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+audi,q7,2005,72040,265811,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+hyundai,sonata,2024,82820,66892,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+renault,megane,2010,88420,123233,Sports Car,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2012,57512,78392,SUV,8,Automatic Transmission,Gasoline,White, Sharjah
+isuzu,other,2012,80317,237270,Utility Truck,8,Manual Transmission,Diesel,White, Dubai
+nissan,armada,2007,104437,102578,Sedan,8,Automatic Transmission,Gasoline,Silver, Sharjah
+mercedes-benz,e-class,2010,264441,121019,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,defender,2005,535074,282301,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+porsche,cayenne,2017,23379,110280,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+audi,s7rs7,2020,766995,16697,Sedan,8,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,g-class,2009,1094820,201881,Wagon,8,Automatic Transmission,Gasoline,Black, Abu Dhabi
+renault,clio,2018,73225,232503,Hatchback,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2011,249656,224108,SUV,8,Automatic Transmission,Gasoline,Silver, Dubai
+porsche,macan,2010,193108,84501,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mitsubishi,pajero,2016,68456,215009,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+honda,cr-v,2008,98372,115831,SUV,4,Automatic Transmission,Gasoline,Silver, Dubai
+maybach,other,2007,1085047,141486,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+ford,f-series-pickup,2009,191420,142939,Pick Up Truck,6,Automatic Transmission,Gasoline,Black, Dubai
+audi,rs6,2010,1349414,221179,Hatchback,6,Automatic Transmission,Gasoline,Black, Dubai
+bmw,m2,2022,142131,163895,Coupe,6,Automatic Transmission,Gasoline,Blue, Dubai
+lexus,gx-series,2019,142661,27878,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+porsche,taycan,2019,851002,182910,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+infiniti,ex35,2019,16047,211933,SUV,6,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+mercedes-benz,g-class,2021,1129799,281382,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+hyundai,elantra,2012,58561,42238,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+lexus,lx600,2020,810666,209871,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+audi,tt,2015,152933,263869,Soft Top Convertible,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2013,51775,98645,SUV,6,Manual Transmission,Gasoline,Gold, Dubai
+toyota,corolla,2008,35929,74383,Sedan,4,Automatic Transmission,Gasoline,Blue, Sharjah
+mercedes-benz,e-class,2023,329714,260192,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+bentley,bentayga,2017,630723,298936,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,gt,2007,306681,126730,Coupe,8,Automatic Transmission,Gasoline,White, Dubai
+ford,f-series-pickup,2011,202762,276189,Pick Up Truck,6,Automatic Transmission,Gasoline,Red, Abu Dhabi
+toyota,prado,2023,100938,182286,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+kia,sportage,2020,41907,109753,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+bmw,7-series,2022,164093,119988,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,hiace,2024,117275,66607,Van,6,Manual Transmission,Gasoline,White, Dubai
+mitsubishi,pajero,2016,17710,184662,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover,2007,170912,260967,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,yaris,2016,49818,139957,Sedan,4,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+mercedes-benz,glc,2022,236927,138192,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+kia,sportage,2022,54695,27332,SUV,4,Automatic Transmission,Gasoline,Teal, Dubai
+porsche,macan,2021,263020,22241,SUV,4,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,cls-class,2012,57357,280953,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+ford,edge,2021,53176,49862,SUV,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+maserati,other,2007,1321109,31816,Coupe,8,Automatic Transmission,Gasoline,Blue, Dubai
+infiniti,q60,2019,49544,28620,Coupe,6,Automatic Transmission,Gasoline,Red, Abu Dhabi
+mercedes-benz,viano,2015,63808,252825,Other,6,Automatic Transmission,Diesel,Black, Sharjah
+land-rover,range-rover-sport,2008,109625,213630,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+ferrari,f8-tributo-spider,2011,1646567,268615,Soft Top Convertible,8,Automatic Transmission,Gasoline,White, Dubai
+gmc,yukon,2009,238414,148034,SUV,8,Automatic Transmission,Gasoline,Gold, Sharjah
+dodge,challenger,2021,85442,158053,Coupe,8,Automatic Transmission,Gasoline,Black, Abu Dhabi
+ford,fiesta,2021,24699,219828,Hatchback,4,Automatic Transmission,Gasoline,Brown, Dubai
+mclaren,mp412c,2016,341896,82615,Coupe,8,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,gle-class,2019,350474,129521,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,gle-coupe,2005,508628,20897,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,patrol,2020,57922,42564,SUV,6,Automatic Transmission,Gasoline,Gold, Sharjah
+honda,cr-v,2022,25435,178211,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,s-class,2015,37930,193697,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+nissan,xterra,2020,21528,85856,Sedan,6,Automatic Transmission,Gasoline,Black, Sharjah
+toyota,prado,2009,42832,73152,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+ferrari,488,2022,1696158,25274,Coupe,8,Automatic Transmission,Gasoline,White, Dubai
+kia,sorento,2010,57206,256195,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+bentley,continental-gt,2024,809382,73333,Sedan,12,Automatic Transmission,Gasoline,Green, Dubai
+lamborghini,urus,2008,1934757,89701,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,maxima,2005,48784,195837,Sedan,6,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,hilux,2020,70791,25843,Pick Up Truck,4,Manual Transmission,Diesel,White, Dubai
+mercedes-benz,g-class,2014,950312,189779,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+lotus,evora,2016,325206,136603,Coupe,6,Automatic Transmission,Gasoline,Beige, Dubai
+nissan,patrol,2011,288259,13925,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+lexus,lx600,2020,771641,171020,SUV,6,Automatic Transmission,Gasoline,Gold, Dubai
+nissan,patrol,2008,116642,63235,SUV,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+bmw,x4,2023,261092,122584,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+nissan,altima,2006,76846,25619,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+porsche,carrera,2019,641638,280760,Coupe,6,Manual Transmission,Gasoline,White, Dubai
+ford,taurus,2023,78945,134926,Sedan,6,Automatic Transmission,Gasoline,Burgundy, Dubai
+mazda,3,2010,44687,130959,Sedan,4,Automatic Transmission,Gasoline,Red, Dubai
+tesla,model-3,2005,190568,50652,Sedan,4,Automatic Transmission,Electric,White, Abu Dhabi
+porsche,carrera,2005,508134,84807,Coupe,6,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,s-class,2011,1222994,299780,Sedan,12,Automatic Transmission,Gasoline,Black, Dubai
+hyundai,veloster,2013,40690,289890,Hatchback,4,Automatic Transmission,Gasoline,Black, Dubai
+nissan,x-trail,2023,48878,154048,SUV,4,Automatic Transmission,Gasoline,Black, Sharjah
+kia,carnival,2010,67000,105462,Van,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2016,305423,112421,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,e-class,2022,182251,174476,Sedan,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+land-rover,range-rover-sport,2012,70045,37169,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+bmw,7-series,2013,45671,294853,Sedan,8,Automatic Transmission,Gasoline,Brown, Sharjah
+mercedes-benz,m-class,2014,70488,194597,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+rolls-royce,cullinan,2012,1966210,171366,SUV,12,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,e-class,2007,150579,181755,Sedan,4,Automatic Transmission,Gasoline,Black, Sharjah
+toyota,hilux,2021,41786,170013,Pick Up Truck,4,Manual Transmission,Gasoline,White, Sharjah
+hyundai,veloster,2018,35446,257351,Hatchback,4,Automatic Transmission,Gasoline,Silver, Dubai
+hyundai,palisade,2019,144662,207002,SUV,6,Automatic Transmission,Gasoline,Burgundy, Ajman
+land-rover,range-rover-sport,2007,290029,28617,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,gl-class,2021,126555,115441,SUV,8,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+mercedes-benz,g-class,2020,163503,48536,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+volkswagen,eos,2014,16135,27706,Coupe,4,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,tahoe,2013,98201,71569,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+isuzu,trooper,2014,44528,126076,SUV,4,Automatic Transmission,Diesel,Blue, Sharjah
+audi,a3,2017,69722,75665,Sedan,4,Automatic Transmission,Gasoline,Red, Dubai
+nissan,van,2023,41837,176420,Van,4,Manual Transmission,Gasoline,White, Sharjah
+ferrari,other,2018,581463,247049,Coupe,12,Manual Transmission,Gasoline,Red, Dubai
+nissan,pathfinder,2008,51087,22689,SUV,6,Automatic Transmission,Gasoline,Brown, Dubai
+audi,q8,2010,856148,246373,Hatchback,8,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,slk-class,2017,142204,253123,Coupe,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,sentra,2023,32657,136684,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2022,1100035,151592,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+bmw,1-series,2024,59478,164414,Hatchback,4,Automatic Transmission,Gasoline,White, Dubai
+gmc,yukon,2024,129586,46710,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,c-class,2007,240175,62142,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,e-class,2022,44546,272579,Coupe,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2006,1506362,244451,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,land-cruiser-76-series,2009,129873,158127,Hard Top Convertible,6,Manual Transmission,Gasoline,White, Dubai
+toyota,fj-cruiser,2006,119415,298532,SUV,6,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+mercedes-benz,e-class,2009,450920,51238,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+rolls-royce,cullinan,2013,2015267,75356,SUV,12,Automatic Transmission,Gasoline,White, Dubai
+volkswagen,touareg,2018,122649,154027,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2020,960165,143863,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+ford,f-series-pickup,2017,95670,190898,Pick Up Truck,8,Automatic Transmission,Gasoline,Black, Abu Dhabi
+mercedes-benz,s-class,2006,122527,138316,Sedan,8,Automatic Transmission,Gasoline,Black,Al Ain
+mercedes-benz,s-class,2012,191489,179095,Sedan,8,Automatic Transmission,Gasoline,Black, Sharjah
+mercedes-benz,g-class,2017,1176254,262116,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+kia,optima,2013,60393,77618,Sedan,4,Automatic Transmission,Gasoline,White, Fujeirah
+bentley,continental-gt,2009,208644,273172,Coupe,12,Automatic Transmission,Gasoline,Black, Dubai
+kia,mohave,2008,32544,117640,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+nissan,altima,2016,110322,69754,Sedan,4,Automatic Transmission,Gasoline,Red, Dubai
+lexus,lx-series,2012,76604,125929,SUV,8,Automatic Transmission,Gasoline,Silver, Sharjah
+lexus,gx-series,2007,145443,139322,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+infiniti,qx60,2018,153373,225576,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+bmw,5-series,2017,181946,179341,Sedan,4,Automatic Transmission,Diesel,Black, Ajman
+land-rover,range-rover,2016,341541,98191,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+jeep,cherokee,2007,52681,95348,SUV,6,Automatic Transmission,Gasoline,Red, Sharjah
+mercedes-benz,x-class,2020,183619,239663,SUV,4,Automatic Transmission,Diesel,Black, Dubai
+honda,hr-v,2008,74288,115943,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+bmw,7-series,2015,249343,218356,Sedan,12,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,e-class,2022,73463,27985,Coupe,6,Automatic Transmission,Gasoline,White, Dubai
+porsche,panamera,2007,85774,84820,Sedan,8,Automatic Transmission,Gasoline,Grey, Sharjah
+dodge,charger,2007,65112,57145,Sedan,8,Automatic Transmission,Gasoline,Blue, Sharjah
+jeep,other,2007,216396,276861,SUV,8,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+kia,sportage,2010,51315,208750,SUV,4,Automatic Transmission,Gasoline,Teal, Dubai
+porsche,carrera,2017,273651,206058,Coupe,6,Automatic Transmission,Gasoline,White, Dubai
+ford,edge,2017,44583,122421,SUV,6,Automatic Transmission,Gasoline,Orange, Dubai
+mercedes-benz,gl-class,2017,80773,136680,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,fortuner,2010,77670,125786,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+toyota,tundra,2007,151080,92557,Wagon,8,Automatic Transmission,Gasoline,White, Sharjah
+gmc,acadia,2006,21691,82892,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,c-class,2020,138926,15245,Sedan,4,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+lincoln,navigator,2022,264972,129834,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+cadillac,escalade,2018,272035,79903,SUV,8,Automatic Transmission,Gasoline,Other Color, Dubai
+mercedes-benz,g-class,2008,1057009,235125,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+infiniti,qx60,2005,75866,252275,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,gl-class,2006,136808,276222,SUV,8,Automatic Transmission,Gasoline,Silver, Dubai
+nissan,altima,2009,28942,64638,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+mitsubishi,pajero,2018,63204,44615,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+audi,a6,2005,49539,76398,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+land-rover,defender,2024,699575,227550,SUV,6,Automatic Transmission,Gasoline,Green, Dubai
+bmw,7-series,2015,431863,187344,Sedan,12,Automatic Transmission,Gasoline,Blue, Dubai
+land-rover,range-rover,2016,167603,34712,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2016,135136,252086,SUV,6,Automatic Transmission,Gasoline,Gold, Dubai
+hyundai,tucson,2024,52426,136750,SUV,4,Automatic Transmission,Gasoline,Brown, Dubai
+jaguar,xf,2022,42975,277547,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2023,137465,174225,SUV,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+ferrari,f12,2005,1004781,61565,Coupe,12,Automatic Transmission,Gasoline,Red, Dubai
+bmw,8-series,2015,437045,27465,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,range-rover-sport,2021,54751,83891,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+porsche,carrera,2006,361929,259803,Coupe,6,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,s-class,2006,63353,174582,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,slr,2012,1091863,191391,Soft Top Convertible,8,Automatic Transmission,Gasoline,Grey, Dubai
+chevrolet,equinox,2008,58768,89957,SUV,4,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,g-class,2023,667527,65637,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+lexus,rx-series,2013,152448,205406,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,c-class,2008,102027,249046,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,cls-class,2011,231221,144818,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+gmc,sierra,2017,181120,12202,Pick Up Truck,8,Automatic Transmission,Gasoline,Grey, Dubai
+hyundai,elantra,2010,51404,71049,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,g-class,2011,805096,64994,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+jeep,wrangler,2006,29021,36792,SUV,6,Automatic Transmission,Gasoline,Yellow, Dubai
+westfield-sportscars,special-edition,2020,116328,287278,Coupe,4,Manual Transmission,Gasoline,Grey, Dubai
+nissan,altima,2016,15638,257594,Sedan,4,Automatic Transmission,Gasoline,White, Abu Dhabi
+mercedes-benz,e-class,2022,223637,67257,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,range-rover-sport,2009,223457,162587,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+chevrolet,camaro,2012,49982,102849,Coupe,8,Automatic Transmission,Gasoline,Black, Dubai
+audi,s3rs3,2012,80110,66944,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+hyundai,h1,2016,62432,80314,Van,4,Manual Transmission,Gasoline,White, Dubai
+audi,a8,2012,81751,299793,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,5-series,2012,86613,31227,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+bmw,x1,2020,81644,130790,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,c-class,2008,339034,133230,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+jeep,grand-cherokee,2015,106241,118772,SUV,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+toyota,land-cruiser,2018,219982,33952,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+aston-martin,db9,2020,359404,255125,Coupe,12,Automatic Transmission,Gasoline,Brown, Dubai
+bmw,8-series,2022,330175,214920,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+land-rover,defender,2019,375081,205175,SUV,4,Manual Transmission,Diesel,White, Dubai
+ford,mustang,2011,52608,263805,Soft Top Convertible,6,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+nissan,sentra,2023,32423,151258,Sedan,4,Automatic Transmission,Gasoline,Red, Sharjah
+toyota,land-cruiser,2018,36690,51356,SUV,6,Automatic Transmission,Gasoline,Silver, Ras Al Khaimah
+bmw,7-series,2012,217106,70715,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,land-cruiser,2024,109443,171456,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+toyota,land-cruiser,2023,117271,278768,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+bmw,x5,2018,153958,137365,SUV,6,Automatic Transmission,Gasoline,Grey, Sharjah
+suzuki,jimny,2011,73430,159265,Coupe,4,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2010,345057,185039,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+bmw,x5,2016,175733,15172,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+rolls-royce,wraith,2010,694635,295827,Coupe,12,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2011,1832906,83285,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+porsche,cayenne,2018,965609,190911,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+toyota,tundra,2019,19560,195918,Pick Up Truck,8,Automatic Transmission,Gasoline,Black, Sharjah
+lexus,rx-series,2005,61944,145754,Crossover,6,Automatic Transmission,Gasoline,White, Dubai
+jeep,grand-cherokee,2018,37995,26702,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,s-class,2020,172674,170850,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+porsche,cayenne,2009,28981,197100,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+toyota,prado,2023,91211,106053,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,x5,2013,240076,10968,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+audi,q5,2023,189574,15562,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+jeep,grand-cherokee,2013,32974,245731,SUV,8,Automatic Transmission,Gasoline,Blue, Sharjah
+mercedes-benz,g-class,2007,1138437,262760,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+bmw,5-series,2021,60821,208159,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,c-class,2021,220299,190912,Coupe,4,Automatic Transmission,Gasoline,Grey, Dubai
+gmc,sierra,2021,156496,28783,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mitsubishi,pajero,2013,64257,296553,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2005,69215,21025,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+maserati,quattroporte,2012,287449,250439,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+toyota,camry,2015,19780,59724,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+lincoln,aviator,2006,236213,34571,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+cadillac,ct6,2011,163050,235914,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+rolls-royce,cullinan,2023,3145999,240237,SUV,12,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,c-class,2020,108996,114409,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+changan,cs95,2016,75926,86661,SUV,4,Automatic Transmission,Gasoline,Red, Dubai
+chevrolet,camaro,2007,79618,174758,Soft Top Convertible,8,Automatic Transmission,Gasoline,White, Dubai
+infiniti,jxseries,2008,50302,280760,SUV,6,Automatic Transmission,Gasoline,White,Abu Dhabi
+porsche,panamera,2023,172343,158792,Sedan,6,Automatic Transmission,Gasoline,Black, Abu Dhabi
+bmw,z4,2010,75469,291776,Hard Top Convertible,6,Automatic Transmission,Gasoline,Red, Dubai
+toyota,rav-4,2010,111994,191926,SUV,4,Automatic Transmission,Gasoline,Silver, Dubai
+porsche,cayenne,2022,83321,99659,SUV,6,Automatic Transmission,Gasoline,Brown, Dubai
+audi,a5,2010,43091,285021,Coupe,4,Automatic Transmission,Gasoline,Grey, Dubai
+porsche,macan,2007,125123,120141,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,sunny,2013,18912,122205,Sedan,4,Automatic Transmission,Gasoline,White, Ajman
+lincoln,nautilus,2012,151700,47662,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+hyundai,sonata,2008,25741,213468,Sedan,4,Automatic Transmission,Gasoline,Silver, Sharjah
+gmc,sierra,2023,104423,261803,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,hilux,2015,133808,260786,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+toyota,camry,2016,47819,156500,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+peugeot,partner,2023,48798,255505,Van,4,Manual Transmission,Gasoline,White, Dubai
+jaguar,e-pace,2020,130561,282523,SUV,4,Automatic Transmission,Gasoline,Red, Dubai
+audi,q7,2008,147247,106776,SUV,6,Automatic Transmission,Gasoline,Beige, Dubai
+maserati,granturismo,2020,139436,41796,Coupe,8,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,fj-cruiser,2016,72121,59555,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+ford,mustang,2008,187400,179752,Coupe,8,Automatic Transmission,Gasoline,Black, Dubai
+audi,q7,2019,46130,97314,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+toyota,camry,2021,52709,76286,Sedan,4,Automatic Transmission,Gasoline,Silver, Sharjah
+lexus,rx-series,2010,75377,265978,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,camaro,2018,68235,25057,Coupe,8,Automatic Transmission,Gasoline,Black, Dubai
+toyota,hiace,2009,116031,70601,SUV,4,Manual Transmission,Diesel,White, Dubai
+land-rover,range-rover,2017,192279,40123,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,gle-coupe,2018,258882,150375,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover-sport,2022,152656,94551,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+audi,q8,2017,237019,10346,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+dodge,ram,2015,191551,297812,SUV,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+mercedes-benz,s-class,2014,170862,140460,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+nissan,pathfinder,2017,34685,29376,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+land-rover,lr3,2008,18018,275293,SUV,8,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+bmw,x6,2021,216671,142765,Crossover,8,Automatic Transmission,Gasoline,Burgundy, Dubai
+lexus,rx-series,2010,178290,84089,SUV,6,Automatic Transmission,Gasoline,Gold, Dubai
+nissan,sunny,2008,17415,209994,Sedan,4,Automatic Transmission,Gasoline,White, Ajman
+infiniti,qx60,2020,87168,60012,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+hyundai,sonata,2019,26281,294110,Sedan,4,Automatic Transmission,Gasoline,Silver, Sharjah
+mercedes-benz,e-class,2016,35105,216794,Sedan,6,Automatic Transmission,Gasoline,Silver, Dubai
+toyota,fj-cruiser,2013,36695,43629,SUV,6,Automatic Transmission,Gasoline,Silver, Sharjah
+infiniti,qx50,2018,65574,50003,SUV,6,Automatic Transmission,Gasoline,Burgundy, Dubai
+renault,duster,2008,32814,162023,SUV,4,Automatic Transmission,Gasoline,Blue, Dubai
+mitsubishi,pajero,2013,58031,237124,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,range-rover-sport,2015,136492,149351,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2008,152402,156636,SUV,6,Manual Transmission,Gasoline,Gold, Abu Dhabi
+bmw,7-series,2022,409011,60001,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover,2015,486173,278446,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+audi,s8,2014,424091,203780,Sedan,8,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+ford,edge,2019,29471,263608,SUV,6,Automatic Transmission,Gasoline,White, Sharjah
+bmw,5-series,2024,158711,157527,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,quest,2006,29608,262018,Van,6,Automatic Transmission,Gasoline,Silver, Dubai
+maybach,other,2013,1099644,248866,Sedan,8,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,m-class,2008,76949,282175,SUV,6,Automatic Transmission,Gasoline,Brown, Dubai
+jeep,grand-cherokee,2009,98815,210959,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mitsubishi,montero-sport,2015,108671,192417,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,discovery,2005,78906,157038,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+jeep,wrangler-unlimited,2012,123326,30661,SUV,6,Automatic Transmission,Gasoline,White, Sharjah
+ford,other,2014,142092,263721,Other,6,Automatic Transmission,Gasoline,White, Sharjah
+mercedes-benz,c-class,2023,109098,41717,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+toyota,prado,2005,57830,150432,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+infiniti,q70,2012,62242,106342,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+kia,cadenza,2012,25621,177101,Other,4,Automatic Transmission,Gasoline,Blue, Dubai
+volkswagen,gti,2010,113595,245703,Hatchback,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,c-class,2024,205117,27651,Sedan,8,Automatic Transmission,Gasoline,Grey, Dubai
+gmc,yukon,2024,306845,142096,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+maserati,levante,2006,213633,58290,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+renault,other,2014,79413,169738,Hatchback,4,Automatic Transmission,Electric,White, Dubai
+dodge,charger,2007,78322,94600,Sedan,6,Automatic Transmission,Gasoline,Purple, Dubai
+volkswagen,passat,2022,11509,97681,Sedan,4,Automatic Transmission,Gasoline,Blue, Dubai
+land-rover,range-rover,2014,152010,15435,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+bmw,7-series,2023,76620,156420,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+cadillac,escalade,2015,193050,84348,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+porsche,cayman,2006,121736,226770,Sports Car,6,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+toyota,prado,2019,151671,69481,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+land-rover,defender,2014,602067,284706,SUV,6,Automatic Transmission,Gasoline,Yellow, Dubai
+mitsubishi,pajero,2010,58581,224683,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+citroen,c5,2024,112539,280276,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,gla,2021,111295,148766,Hatchback,4,Automatic Transmission,Gasoline,Black, Dubai
+gmc,yukon,2024,46563,157893,Other,4,Automatic Transmission,Gasoline,Other Color, Dubai
+mercedes-benz,s-class,2006,1107093,121438,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+mazda,6,2014,32884,239054,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover-evoque,2023,140594,13809,SUV,4,Automatic Transmission,Gasoline,White, Abu Dhabi
+land-rover,range-rover-sport,2006,330456,171170,SUV,6,Automatic Transmission,Gasoline,Black, Sharjah
+nissan,pathfinder,2015,45406,162724,SUV,6,Automatic Transmission,Gasoline,Grey, Al Ain
+audi,q5,2014,67649,231992,SUV,4,Automatic Transmission,Gasoline,White, Abu Dhabi
+mitsubishi,lancer,2006,26808,87763,Sedan,4,Automatic Transmission,Gasoline,Black, Al Ain
+mercedes-benz,s-class,2012,1615748,169085,Sedan,12,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,cla,2012,83001,180804,Coupe,4,Automatic Transmission,Gasoline,Black, Dubai
+toyota,sienna,2020,26630,147211,Van,6,Automatic Transmission,Gasoline,Red, Dubai
+infiniti,q30,2006,127755,221567,SUV,4,Automatic Transmission,Gasoline,Red, Abu Dhabi
+nissan,pickup,2019,99786,252693,Pick Up Truck,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2011,288915,108605,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,c-class,2010,202849,141907,Sedan,8,Automatic Transmission,Gasoline,Black, Sharjah
+ford,explorer,2007,83155,23114,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+toyota,land-cruiser,2007,500645,29060,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+porsche,cayman,2013,167126,92108,Coupe,6,Automatic Transmission,Gasoline,Red, Abu Dhabi
+mercedes-maybach,s-class,2009,1138537,152680,Sedan,12,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2009,603574,32956,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+hyundai,centennial,2014,88043,111878,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,5-series,2018,168191,274489,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2023,135274,283991,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+nissan,maxima,2009,45431,136674,Sedan,6,Automatic Transmission,Gasoline,Purple, Dubai
+toyota,prado,2008,136711,29168,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+land-rover,defender,2007,579586,121822,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,cls-class,2007,275789,251312,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+bmw,5-series,2011,34667,237585,Sedan,6,Automatic Transmission,Gasoline,Brown, Dubai
+ford,mustang,2015,75699,267657,Coupe,8,Manual Transmission,Gasoline,Orange, Dubai
+ford,edge,2008,28450,145367,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+land-rover,range-rover-sport,2013,302646,78715,Crossover,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,s-class,2019,48795,118209,Sedan,8,Automatic Transmission,Gasoline,Silver, Sharjah
+mercedes-benz,c-class,2006,60600,237533,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+mitsubishi,lancer,2016,35385,181787,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+ford,f-series-pickup,2016,270548,224004,Pick Up Truck,8,Automatic Transmission,Gasoline,Black, Dubai
+hyundai,sonata,2010,88515,51393,Sedan,4,Automatic Transmission,Gasoline,Grey,Ras Al Khaimah
+toyota,land-cruiser,2022,340741,166654,SUV,6,Automatic Transmission,Diesel,Silver, Dubai
+tesla,model-3,2013,245474,215259,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+honda,city,2016,43909,82724,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+ford,mustang,2009,65092,221514,Coupe,8,Automatic Transmission,Gasoline,Black, Dubai
+infiniti,fx50,2009,15882,231694,SUV,8,Automatic Transmission,Gasoline,Black, Abu Dhabi
+mitsubishi,l200,2011,43578,92801,Pick Up Truck,4,Manual Transmission,Gasoline,White, Sharjah
+nissan,altima,2021,35323,81495,Sedan,4,Automatic Transmission,Gasoline,Brown, Abu Dhabi
+mercedes-benz,slc,2020,58640,106196,Coupe,8,Automatic Transmission,Gasoline,Red,Dubai
+bmw,4-series,2024,97214,46325,Coupe,6,Automatic Transmission,Gasoline,Grey, Dubai
+jeep,gladiator,2014,184796,101947,Pick Up Truck,6,Automatic Transmission,Gasoline,Grey, Dubai
+ford,edge,2021,174887,42178,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,5-series,2014,171500,223308,Sedan,4,Automatic Transmission,Diesel,Black, Ajman
+jeep,wrangler,2014,111482,174468,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+hyundai,elantra,2021,49271,15687,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+ford,f-series-pickup,2024,389115,109725,Pick Up Truck,6,Automatic Transmission,Gasoline,Orange, Dubai
+rolls-royce,phantom,2006,442922,107637,Sedan,12,Automatic Transmission,Gasoline,White, Dubai
+mclaren,720s,2005,1237642,271751,Sports Car,8,Automatic Transmission,Gasoline,Yellow, Dubai
+bmw,7-series,2019,125868,13746,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+bentley,continental,2008,117778,100917,Coupe,12,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,e-class,2022,294464,37810,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,g-class,2013,941037,278427,SUV,8,Automatic Transmission,Gasoline,Gold, Dubai
+audi,s3rs3,2010,90722,156943,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,patrol,2021,141589,37923,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+infiniti,q80,2007,142056,82977,SUV,8,Automatic Transmission,Gasoline,Blue, Sharjah
+ford,explorer,2013,61200,262149,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,c-class,2009,132238,213239,Sedan,4,Automatic Transmission,Diesel,Grey, Dubai
+lexus,ls-series,2014,23286,99231,Sedan,8,Automatic Transmission,Gasoline,Black, Sharjah
+ford,focus,2008,38477,60807,Hatchback,4,Manual Transmission,Gasoline,Silver, Dubai
+land-rover,range-rover,2007,55732,52740,SUV,8,Automatic Transmission,Gasoline,Gold, Dubai
+ford,mustang,2014,56756,43418,Crossover,4,Automatic Transmission,Gasoline,Red, Sharjah
+chevrolet,camaro,2013,182576,242282,Coupe,8,Automatic Transmission,Gasoline,Yellow, Dubai
+toyota,fortuner,2010,81402,296933,SUV,4,Automatic Transmission,Gasoline,White, Sharjah
+hyundai,tucson,2016,90590,118841,Hatchback,4,Automatic Transmission,Gasoline,Grey, Ajman
+mercedes-benz,amg,2010,30656,196661,Hard Top Convertible,8,Automatic Transmission,Gasoline,Gold, Dubai
+maserati,ghibli,2022,149850,82800,Sedan,6,Automatic Transmission,Gasoline,Blue, Dubai
+lexus,lx-series,2013,85402,245603,SUV,8,Automatic Transmission,Gasoline,Black, Sharjah
+bmw,x6,2005,44826,271493,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+lexus,ux-200,2013,117726,203420,SUV,4,Automatic Transmission,Gasoline,Gold, Sharjah
+toyota,rav-4,2024,56806,241529,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+cadillac,escalade,2022,233700,210183,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+lexus,ls-series,2017,44355,64263,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+mazda,cx-5,2006,110913,100367,SUV,4,Automatic Transmission,Gasoline,Red, Dubai
+nissan,murano,2007,13784,50844,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+dodge,charger,2016,75361,225223,Sedan,8,Automatic Transmission,Gasoline,Red, Dubai
+dodge,challenger,2023,130555,69833,Coupe,8,Automatic Transmission,Gasoline,Grey, Dubai
+jeep,wrangler,2015,120276,228854,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+bmw,x5,2024,129265,33604,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover,2006,25249,245048,SUV,8,Automatic Transmission,Gasoline,Gold, Dubai
+rolls-royce,phantom,2012,636260,189667,Sedan,12,Automatic Transmission,Gasoline,White, Dubai
+jeep,wrangler,2024,106523,69067,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+hyundai,tucson,2009,67454,230945,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+ford,edge,2015,29629,109111,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+land-rover,range-rover-sport,2021,227856,150856,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+nissan,sunny,2020,29013,90743,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2008,438384,156917,Other,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+tesla,model-x,2020,315985,195723,SUV,4,Automatic Transmission,Electric,Grey, Dubai
+isuzu,other,2016,98802,31919,Pick Up Truck,4,Automatic Transmission,Diesel,Grey, Dubai
+cadillac,ctscatera,2024,62729,178898,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+audi,q7,2006,62760,229741,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+nissan,sunny,2012,31447,62719,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+jaguar,xf,2023,55318,71921,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,g-class,2020,919710,95571,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,cls-class,2006,357326,194030,Coupe,4,Automatic Transmission,Gasoline,Black, Dubai
+toyota,land-cruiser,2010,45770,10807,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+ford,figo,2014,11587,164774,Hatchback,4,Automatic Transmission,Gasoline,White, Abu Dhabi
+land-rover,range-rover,2023,160063,263579,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,e-class,2009,157847,170629,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+bentley,continental-gt,2019,532500,288479,Coupe,12,Automatic Transmission,Gasoline,Blue, Dubai
+jeep,wrangler,2020,67320,296963,SUV,6,Automatic Transmission,Gasoline,Black, Abu Dhabi
+nissan,patrol,2012,307911,148871,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+lexus,rx-series,2019,173341,184215,SUV,6,Automatic Transmission,Gasoline,Gold, Dubai
+mercedes-benz,s-class,2013,272073,187846,Sedan,8,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,pickup,2005,127876,27408,SUV,6,Manual Transmission,Gasoline,Gold, Al Ain
+mercedes-benz,v-class,2015,354461,140753,Van,4,Automatic Transmission,Gasoline,Black, Dubai
+audi,a8,2014,114858,266653,Sedan,6,Automatic Transmission,Gasoline,Blue, Dubai
+audi,a5,2015,292853,281703,Hatchback,4,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+lamborghini,urus,2019,2046908,171210,SUV,8,Automatic Transmission,Gasoline,Yellow, Dubai
+ford,f-series-pickup,2009,172208,85040,Pick Up Truck,6,Automatic Transmission,Gasoline,Brown, Dubai
+chevrolet,silverado,2005,22688,43877,Pick Up Truck,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,rush,2017,71567,180767,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+audi,s3rs3,2018,136728,45030,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+lamborghini,urus,2023,2153835,291913,SUV,8,Automatic Transmission,Gasoline,Yellow, Dubai
+mercedes-benz,s-class-coupe,2016,222522,213851,Coupe,8,Automatic Transmission,Gasoline,White, Ajman
+bentley,continental-gt,2015,721217,259043,Sedan,12,Automatic Transmission,Gasoline,Green, Dubai
+jaguar,f-type,2011,97574,211449,Coupe,6,Automatic Transmission,Gasoline,Grey, Dubai
+ford,edge,2023,18767,164285,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+toyota,innova,2019,29006,108626,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+bentley,bentayga,2008,717431,165005,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,cla,2008,287398,289492,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+jeep,wrangler-unlimited,2012,127286,132560,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+toyota,prado,2014,165245,53541,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+bmw,7-series,2006,90944,32087,Sedan,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+ferrari,f12,2024,709527,211207,Sports Car,12,Automatic Transmission,Gasoline,Red, Dubai
+land-rover,range-rover-sport,2010,46125,68168,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+bmw,x6,2009,224130,232709,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,g-class,2023,218902,162357,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+audi,q8,2023,651656,66242,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+nissan,x-trail,2024,72875,128583,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+aston-martin,vanquish,2020,406114,250409,Coupe,12,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,s-class,2020,103284,112154,Sedan,8,Automatic Transmission,Gasoline,Grey, Dubai
+kia,sportage,2014,69324,174518,SUV,4,Automatic Transmission,Gasoline,Teal, Dubai
+bmw,x5,2011,158358,271847,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+renault,koleos,2006,63352,90512,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+chevrolet,camaro,2010,83654,184185,Coupe,6,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,range-rover-evoque,2005,111698,251774,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+kia,rio,2020,25079,90686,Sedan,6,Automatic Transmission,Gasoline,Red, Dubai
+maserati,quattroporte,2023,33178,198765,Sedan,6,Automatic Transmission,Gasoline,Green, Dubai
+cadillac,escalade,2020,24972,259048,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+lexus,lx600,2011,781152,98746,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+lamborghini,gallardo,2014,475668,94171,Coupe,10,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,c-class,2013,74107,108618,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+bentley,continental-gt,2008,208965,229097,Coupe,12,Automatic Transmission,Gasoline,Other Color, Dubai
+jeep,wrangler,2010,163012,88748,SUV,6,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+porsche,cayenne,2012,92545,64546,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+dodge,challenger,2014,31085,137850,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,7-series,2020,54446,221281,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+rolls-royce,cullinan,2013,2192479,207851,SUV,12,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,s-class,2020,31985,241297,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+mitsubishi,l200,2022,60561,277831,Pick Up Truck,4,Manual Transmission,Diesel,Grey, Dubai
+nissan,patrol,2020,72045,270297,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+honda,pilot,2017,52445,33089,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+audi,a8,2021,138517,10754,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,c-class,2012,172497,207084,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+mitsubishi,pajero,2021,111253,143903,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover-sport,2017,172540,14293,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,g-class,2019,848740,202214,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+lexus,es-series,2005,238753,280408,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+land-rover,defender,2012,274477,249103,SUV,4,Manual Transmission,Diesel,Grey, Dubai
+mercedes-benz,c-class,2023,101091,74672,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+porsche,panamera,2022,63974,156634,Sedan,8,Automatic Transmission,Gasoline,White, Sharjah
+mercedes-benz,glc,2022,250092,139307,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+honda,odyssey,2013,65124,122833,Van,6,Automatic Transmission,Gasoline,White, Dubai
+toyota,corolla,2012,12041,127879,Sedan,4,Automatic Transmission,Gasoline,Blue, Dubai
+rolls-royce,ghost,2010,590949,151338,Sedan,12,Automatic Transmission,Gasoline,White, Dubai
+mitsubishi,pajero,2005,64723,114990,Sedan,6,Automatic Transmission,Gasoline,White, Sharjah
+jeep,grand-cherokee,2013,113232,86320,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+dodge,charger,2024,105774,165044,Sports Car,8,Automatic Transmission,Gasoline,Black, Sharjah
+mercedes-benz,s-class,2009,260603,229984,Coupe,8,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2019,270407,190502,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+ferrari,f8-tributo,2024,1122414,63938,Sports Car,8,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,cls-class,2021,280913,54547,Coupe,6,Automatic Transmission,Gasoline,Blue, Dubai
+bmw,7-series,2011,630144,253637,Sedan,12,Automatic Transmission,Gasoline,Blue, Dubai
+land-rover,defender,2008,812011,106298,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+lincoln,mkx,2016,30781,170426,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+jeep,wrangler,2022,21343,178182,SUV,6,Automatic Transmission,Gasoline,Yellow, Dubai
+dodge,charger,2008,165797,194310,Sedan,6,Automatic Transmission,Gasoline,Red, Abu Dhabi
+lexus,rx-series,2024,50834,104099,SUV,6,Automatic Transmission,Gasoline,Burgundy, Dubai
+nissan,patrol,2024,97628,160914,Other,8,Automatic Transmission,Gasoline,Gold, Abu Dhabi
+jeep,wrangler-unlimited,2021,429156,175237,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mazda,6,2020,16047,112283,Other,4,Automatic Transmission,Gasoline,Blue, Dubai
+bmw,x5,2011,193428,246659,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+rolls-royce,ghost,2007,489493,44486,Sedan,12,Automatic Transmission,Gasoline,Other Color, Dubai
+toyota,camry,2019,100949,215957,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+chevrolet,camaro,2012,40014,112783,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+cadillac,escalade,2020,207420,268649,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,e-class,2021,57274,284082,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+chevrolet,traverse,2016,96314,254855,SUV,6,Automatic Transmission,Gasoline,Other Color, Abu Dhabi
+mitsubishi,pajero,2009,54510,105325,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mazda,3,2022,51122,247648,Hatchback,4,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,s-class,2006,19696,41299,Sedan,8,Automatic Transmission,Gasoline,Black, Al Ain
+volkswagen,touareg,2010,33339,144664,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+volkswagen,golf,2012,57724,183955,Hatchback,4,Automatic Transmission,Gasoline,Blue, Dubai
+hyundai,accent,2006,52813,203332,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+nissan,murano,2023,30279,283403,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+bmw,x6,2023,408010,53564,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+audi,q7,2013,53091,28215,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2005,17627,265359,SUV,6,Automatic Transmission,Gasoline,Gold, Dubai
+mercedes-benz,e-class,2021,205110,213827,Sedan,4,Automatic Transmission,Gasoline,Grey, Sharjah
+nissan,kicks,2016,40568,279989,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+ford,mustang,2013,143071,100851,Coupe,8,Manual Transmission,Gasoline,Black, Dubai
+jeep,compass,2012,59385,172970,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+toyota,sienna,2017,38558,32423,SUV,6,Automatic Transmission,Gasoline,White, Sharjah
+lexus,es-series,2006,103215,50042,Sedan,6,Automatic Transmission,Gasoline,Black, Ras Al Khaimah
+jeep,cherokee,2020,42305,190110,SUV,6,Automatic Transmission,Gasoline,Red, Sharjah
+land-rover,range-rover,2012,341010,197346,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,c-class,2005,82129,182737,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+nissan,sunny,2005,14105,197453,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+porsche,cayenne,2006,51129,240859,SUV,8,Automatic Transmission,Gasoline,Brown, Abu Dhabi
+mercedes-benz,g-class,2018,1675711,164525,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,gt,2020,560540,215956,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+jaguar,xj-series,2015,51464,145402,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover-sport,2010,301529,151951,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+audi,a3,2021,64371,268475,Sedan,3,Automatic Transmission,Gasoline,Red, Dubai
+land-rover,range-rover-sport,2022,221981,252651,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+lexus,rx-series,2019,19285,52444,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+lexus,rx-series,2019,153329,72552,SUV,6,Automatic Transmission,Gasoline,Silver, Sharjah
+bmw,3-series,2021,24700,253062,Hard Top Convertible,4,Automatic Transmission,Gasoline,Black, Dubai
+jeep,grand-cherokee,2022,94331,174154,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,x5,2022,48699,240183,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,defender,2010,382750,290413,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+cadillac,escalade,2020,534239,90559,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2014,280270,80167,SUV,8,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+cadillac,escalade,2018,421950,175501,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2014,93184,89973,SUV,6,Automatic Transmission,Gasoline,White, Sharjah
+peugeot,208,2021,27104,236049,Hatchback,4,Automatic Transmission,Gasoline,Red, Dubai
+chevrolet,blazer,2013,147777,260804,SUV,6,Automatic Transmission,Gasoline,Black, Sharjah
+bmw,4-series,2015,152575,75749,Hard Top Convertible,4,Automatic Transmission,Gasoline,Black, Dubai
+bmw,x5,2008,132325,228123,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+bmw,z4,2021,88253,18661,Coupe,6,Manual Transmission,Gasoline,White, Dubai
+bmw,7-series,2005,170338,144138,Sedan,8,Automatic Transmission,Gasoline,Brown, Dubai
+lexus,rx-series,2016,189744,221868,SUV,6,Automatic Transmission,Gasoline,White, Sharjah
+jeep,grand-cherokee,2005,117782,109335,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,land-cruiser,2013,414921,50706,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover-sport,2010,225611,218918,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+chevrolet,silverado,2009,159025,173619,Pick Up Truck,8,Automatic Transmission,Gasoline,Black, Dubai
+toyota,yaris,2017,44350,150029,Hatchback,4,Automatic Transmission,Gasoline,White, Dubai
+ford,mustang,2021,126507,131978,Sports Car,8,Automatic Transmission,Gasoline,Silver, Dubai
+toyota,land-cruiser,2015,204624,154297,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,blazer,2019,175068,40661,SUV,4,Automatic Transmission,Gasoline,Black, Abu Dhabi
+bmw,x6,2011,266553,215158,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,g-class,2005,1476926,293754,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,land-cruiser,2010,183709,135552,Pick Up Truck,6,Manual Transmission,Gasoline,Burgundy, Dubai
+mercedes-benz,c-class,2020,125652,183130,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+ford,explorer,2010,44040,88314,SUV,6,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+bmw,3-series,2008,26462,155959,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2020,249080,211283,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+volkswagen,golfr,2013,147286,42539,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+dodge,charger,2021,165177,258936,Sedan,8,Automatic Transmission,Gasoline,Grey, Dubai
+hyundai,tucson,2011,127541,173773,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+bmw,7-series,2010,114360,290015,Sedan,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+toyota,hilux,2019,126190,204648,Pick Up Truck,4,Automatic Transmission,Diesel,White, Dubai
+volkswagen,touareg,2005,78751,53318,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+lexus,gs-series,2024,83308,191741,Sedan,6,Automatic Transmission,Gasoline,Black, Sharjah
+porsche,panamera,2008,520790,110091,Wagon,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,glc,2022,194020,299072,Crossover,4,Automatic Transmission,Gasoline,Black, Dubai
+chevrolet,corvette,2024,137153,121748,Sports Car,8,Automatic Transmission,Gasoline,Gold, Dubai
+nissan,patrol,2007,404377,43830,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+jeep,wrangler-unlimited,2017,233151,221732,SUV,4,Automatic Transmission,Gasoline,Other Color, Dubai
+bmw,m5,2013,368798,21137,Sedan,8,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+nissan,x-trail,2010,61839,268531,Crossover,4,Automatic Transmission,Gasoline,White, Dubai
+porsche,cayenne,2011,400630,265800,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,280zx,2019,39853,48492,Coupe,6,Manual Transmission,Gasoline,Brown,Al Ain
+volkswagen,id4,2020,141203,139549,Crossover,4,Automatic Transmission,Electric,Grey, Dubai
+mitsubishi,pajero,2012,58798,106426,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,s-class,2014,1494234,210270,Sedan,12,Automatic Transmission,Gasoline,White, Dubai
+tesla,model-y,2020,280730,267641,Coupe,4,Automatic Transmission,Electric,Black, Dubai
+baic,bj40l,2007,106330,190311,Wagon,4,Automatic Transmission,Gasoline,White, Dubai
+toyota,rush,2017,60829,180574,SUV,4,Automatic Transmission,Gasoline,White, Sharjah
+dodge,charger,2023,27991,98269,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,altima,2019,32632,88622,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+toyota,corolla-cross,2012,112509,210136,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+daihatsu,gran-max,2014,23671,103097,Van,4,Automatic Transmission,Gasoline,White, Dubai
+rolls-royce,cullinan,2017,2304008,292530,SUV,12,Automatic Transmission,Gasoline,Black, Dubai
+cadillac,ats,2014,53998,244613,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+mini,cooper,2005,24224,137969,Hatchback,4,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+mercedes-benz,e-class,2013,193833,289316,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+cadillac,xt6,2022,194124,196641,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,cla,2016,156642,54707,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,g-class,2013,624407,45002,SUV,8,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,e-class,2016,33050,287347,Sedan,4,Automatic Transmission,Gasoline,Brown, Abu Dhabi
+mercedes-benz,s-class,2010,148682,98313,Sedan,8,Automatic Transmission,Gasoline,Grey, Dubai
+tesla,model-3,2015,256340,20816,Sedan,4,Automatic Transmission,Electric,White, Abu Dhabi
+ford,mustang,2011,148716,201815,Coupe,8,Manual Transmission,Gasoline,Grey, Dubai
+alfa-romeo,giulia,2013,126527,123751,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+volkswagen,other,2013,129226,59372,Van,4,Manual Transmission,Gasoline,Blue, Dubai
+cadillac,escalade,2023,33986,257230,SUV,8,Automatic Transmission,Gasoline,Black, Sharjah
+audi,a8,2013,146132,188268,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+cadillac,ats,2021,157053,165488,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,gle-coupe,2021,328997,123409,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+bmw,5-series,2017,139901,264891,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+ford,f-series-pickup,2008,164728,148383,Utility Truck,6,Automatic Transmission,Gasoline,Black, Sharjah
+nissan,altima,2022,39129,126860,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+bmw,x5,2015,51323,188034,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+nissan,xterra,2020,117017,245452,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+ford,f-series-pickup,2015,325164,289772,Pick Up Truck,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,2-series,2021,129631,291357,Soft Top Convertible,4,Automatic Transmission,Gasoline,White, Dubai
+toyota,land-cruiser,2011,421833,78585,SUV,6,Automatic Transmission,Diesel,Black, Dubai
+nissan,patrol,2019,159185,85214,SUV,6,Automatic Transmission,Gasoline,Gold, Dubai
+dodge,ram,2006,84245,220454,Pick Up Truck,8,Automatic Transmission,Gasoline,Silver,Al Ain
+bmw,7-series,2023,341325,121140,Sedan,8,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,prado,2009,83469,126451,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+volkswagen,id4,2006,132108,261312,Crossover,4,Automatic Transmission,Electric,Blue, Dubai
+rolls-royce,wraith,2005,695428,266808,Coupe,12,Automatic Transmission,Gasoline,Black, Dubai
+toyota,prado,2005,75002,172967,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+audi,s3rs3,2014,104998,172403,Sedan,4,Automatic Transmission,Gasoline,Red, Dubai
+lincoln,continental,2019,124046,142787,Sedan,6,Automatic Transmission,Gasoline,Silver, Dubai
+jaguar,xe,2020,116176,182770,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+nissan,altima,2010,66876,157802,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+porsche,panamera,2010,201848,217256,Wagon,6,Automatic Transmission,Gasoline,White, Dubai
+rolls-royce,cullinan,2012,3168401,174045,SUV,12,Automatic Transmission,Gasoline,Black, Dubai
+nissan,altima,2017,23633,98715,Sedan,4,Automatic Transmission,Gasoline,Red, Dubai
+mitsubishi,lancer,2005,26682,170843,Sedan,4,Automatic Transmission,Gasoline,Red, Dubai
+lamborghini,urus,2021,1473712,40266,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mazda,cx-9,2010,79044,106006,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+kia,sorento,2008,74914,102942,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+bmw,5-series,2009,254826,60862,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,e-class,2014,17788,180412,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,3-series,2024,71984,258000,Sedan,3,Automatic Transmission,Gasoline,White,Dubai
+nissan,pathfinder,2010,23864,141953,Sedan,6,Automatic Transmission,Gasoline,White, Sharjah
+land-rover,range-rover,2016,486792,269663,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+honda,civic,2018,47374,134065,Sedan,4,Automatic Transmission,Gasoline,Red, Dubai
+porsche,cayenne,2017,517273,17731,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+infiniti,q50,2006,73815,190057,Sedan,6,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,e-class,2013,37351,78651,Sedan,6,Automatic Transmission,Gasoline,White, Sharjah
+porsche,macan,2024,163551,133982,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+lamborghini,urus,2009,1510461,150014,SUV,8,Automatic Transmission,Gasoline,Yellow, Dubai
+hyundai,elantra,2005,31093,282845,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+bmw,3-series,2010,160365,66273,Sedan,4,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,gle-class,2024,345854,210050,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+bmw,5-series,2017,159343,53891,Sedan,4,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,c-class,2010,154975,211755,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+hyundai,sonata,2007,28340,120078,Sedan,4,Automatic Transmission,Gasoline,Black, Sharjah
+land-rover,range-rover-sport,2008,67386,59009,SUV,8,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,cls-class,2020,86333,50066,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+jeep,wrangler-unlimited,2015,94506,69607,Hard Top Convertible,6,Automatic Transmission,Gasoline,Black, Dubai
+nissan,van,2014,46683,239919,Van,4,Manual Transmission,Diesel,White, Sharjah
+jeep,wrangler,2022,98105,109396,SUV,6,Automatic Transmission,Gasoline,White, Ajman
+jeep,cherokee,2009,104963,47092,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+toyota,land-cruiser,2006,98296,150744,SUV,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+cadillac,escalade,2007,516993,210062,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+porsche,taycan,2005,692268,16069,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,altima,2010,38039,283826,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,cls-class,2017,437268,44343,Coupe,6,Automatic Transmission,Gasoline,Yellow, Dubai
+nissan,murano,2007,10600,239985,SUV,6,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+aston-martin,db11,2013,1145012,217964,Coupe,8,Automatic Transmission,Gasoline,Blue, Dubai
+jeep,wrangler,2024,78080,29927,Hard Top Convertible,6,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,s-class,2019,56758,106690,Sedan,8,Automatic Transmission,Gasoline,Gold, Dubai
+audi,a8,2009,115106,127356,Sedan,8,Automatic Transmission,Gasoline,White, Sharjah
+audi,s8,2024,129032,59299,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover,2012,252668,195401,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+land-rover,defender,2006,465173,103558,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mitsubishi,montero,2005,58147,12529,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,g-class,2021,764754,175852,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+chevrolet,tahoe,2017,124171,220025,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,gt,2018,392939,284314,Coupe,8,Automatic Transmission,Gasoline,Green, Dubai
+jeep,grand-cherokee,2007,43654,298400,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+infiniti,q80,2018,194567,291966,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+jeep,compass,2007,103168,73241,SUV,4,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,hiace,2013,122424,88705,Van,4,Manual Transmission,Gasoline,White, Dubai
+mercedes-benz,s-class,2016,254819,10270,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,gle-coupe,2023,1346643,13472,SUV,8,Automatic Transmission,Gasoline,Other Color, Dubai
+bmw,5-series,2021,20830,45008,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+lexus,rx-series,2024,16255,265492,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,hilux,2011,87986,157336,Pick Up Truck,4,Automatic Transmission,Gasoline,Black, Dubai
+aston-martin,vantage,2016,163168,46933,Coupe,8,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,s-class,2006,384297,48590,Sedan,12,Automatic Transmission,Gasoline,White, Dubai
+mini,cooper,2012,168408,23306,Hatchback,4,Automatic Transmission,Gasoline,Black, Dubai
+jeep,wrangler-unlimited,2010,349618,46267,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover,2017,525682,37281,Coupe,8,Automatic Transmission,Gasoline,White, Dubai
+mini,cooper,2022,26787,51681,Soft Top Convertible,4,Automatic Transmission,Gasoline,Red, Dubai
+ford,pickup,2006,284787,160773,Pick Up Truck,6,Automatic Transmission,Gasoline,Red, Dubai
+infiniti,qx60,2020,38511,204755,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+bmw,x1,2023,149435,29834,SUV,4,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+land-rover,range-rover,2006,308769,42345,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,gt,2022,423243,140574,Sports Car,6,Automatic Transmission,Gasoline,Black, Sharjah
+bmw,6-series,2005,78718,248350,Sedan,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+volkswagen,gti,2014,23722,112838,Hatchback,4,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover,2023,92561,139800,SUV,8,Automatic Transmission,Gasoline,Gold, Abu Dhabi
+bentley,continental-flying-spur,2019,179169,75422,Sedan,12,Automatic Transmission,Gasoline,Black, Dubai
+ford,f-series-pickup,2014,160766,36914,Pick Up Truck,6,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2024,103352,252378,SUV,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+bmw,1-series,2022,52861,196773,Hatchback,4,Automatic Transmission,Gasoline,White, Dubai
+bentley,continental-gt,2021,326173,192573,Coupe,12,Automatic Transmission,Gasoline,White, Dubai
+bmw,7-series,2009,306292,277321,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+hyundai,elantra,2017,33629,234064,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+audi,q7,2016,67229,258654,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,gla,2010,164761,284209,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+toyota,land-cruiser,2015,89313,10133,SUV,8,Automatic Transmission,Gasoline,White, Sharjah
+mercedes-benz,slk-class,2006,107299,53608,Hard Top Convertible,6,Automatic Transmission,Gasoline,Grey, Dubai
+chevrolet,silverado,2006,111792,104805,Pick Up Truck,8,Automatic Transmission,Gasoline,Black, Dubai
+audi,a5,2021,252228,224225,Hatchback,4,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+land-rover,range-rover,2010,447812,245054,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+ford,explorer,2010,121492,92419,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2007,1205105,256182,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+mazda,3,2007,40993,63170,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+ferrari,488-spider,2011,2083867,214066,Hard Top Convertible,8,Automatic Transmission,Gasoline,Yellow, Dubai
+cadillac,escalade,2014,43196,180316,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+kia,sorento,2006,72671,215815,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+renault,dokker,2007,29067,173990,Soft Top Convertible,4,Automatic Transmission,Gasoline,White, Ajman
+mercedes-benz,amg-gt-4-doors,2017,713918,231459,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+porsche,cayenne,2023,628473,22523,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+chevrolet,silverado,2019,111874,253944,SUV,8,Automatic Transmission,Gasoline,White, Sharjah
+toyota,land-cruiser,2008,470284,143940,SUV,6,Automatic Transmission,Diesel,White, Dubai
+audi,a8,2005,275431,44217,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+toyota,land-cruiser,2012,164514,148586,Hard Top Convertible,6,Manual Transmission,Gasoline,Beige, Dubai
+honda,cr-v,2020,112958,93150,SUV,4,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,cls-class,2013,19481,99847,Sedan,6,Automatic Transmission,Gasoline,Red, Dubai
+audi,tt,2016,44472,273308,Coupe,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2014,211317,47975,SUV,8,Automatic Transmission,Gasoline,Silver, Dubai
+porsche,cayenne,2020,244376,46081,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+volkswagen,jetta,2009,24486,23310,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,lr4,2019,112601,205207,SUV,6,Automatic Transmission,Gasoline,Gold, Dubai
+porsche,cayenne,2023,545344,33630,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover,2023,474322,14623,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+bmw,x5,2017,66942,72730,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+bmw,7-series,2019,227410,197600,Sedan,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+bentley,continental-gt,2006,182241,244598,Coupe,12,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,e-class,2024,427651,218402,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,discovery-sport,2011,63333,170909,Crossover,4,Automatic Transmission,Gasoline,Black, Dubai
+volkswagen,passat,2018,27002,153181,Sedan,5,Automatic Transmission,Gasoline,Silver, Ajman
+chevrolet,spark,2009,33321,244558,Hatchback,4,Automatic Transmission,Gasoline,Blue, Dubai
+honda,cr-v,2008,31120,132358,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2018,126937,153002,SUV,8,Automatic Transmission,Gasoline,White, Sharjah
+lexus,rx-series,2021,153467,63779,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+hyundai,palisade,2024,120854,22529,SUV,4,Automatic Transmission,Diesel,Grey, Dubai
+mercedes-benz,cls-class,2018,96898,81059,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,murano,2011,41806,118900,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+ford,edge,2005,40114,276364,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,armada,2010,24045,108094,SUV,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+ferrari,f12,2012,533904,118071,Sports Car,12,Automatic Transmission,Gasoline,Red, Dubai
+nissan,murano,2020,13765,102585,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+porsche,boxster,2023,51691,41117,Soft Top Convertible,6,Automatic Transmission,Gasoline,Brown, Dubai
+audi,q5,2006,40463,146419,SUV,4,Automatic Transmission,Gasoline,White, Abu Dhabi
+renault,koleos,2005,26085,233124,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+chevrolet,aveo,2016,26720,109012,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,slr,2005,1524350,61443,Soft Top Convertible,8,Automatic Transmission,Gasoline,Grey, Dubai
+dodge,challenger,2006,82441,215449,Sports Car,8,Automatic Transmission,Gasoline,White, Dubai
+ford,ranger,2011,131405,98817,Pick Up Truck,4,Automatic Transmission,Diesel,Silver, Dubai
+mercedes-benz,gt,2022,1930516,275897,Coupe,8,Automatic Transmission,Gasoline,Orange, Dubai
+hyundai,sonata,2023,40488,172220,Sedan,4,Automatic Transmission,Gasoline,Red, Ajman
+gmc,terrain,2009,81795,39656,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,other,2024,69429,220696,Crossover,4,Automatic Transmission,Gasoline,Red, Dubai
+dodge,challenger,2009,62209,151971,Coupe,6,Automatic Transmission,Gasoline,Green, Sharjah
+mercedes-benz,s-class,2020,133385,250530,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+gmc,acadia,2009,59597,188040,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+ford,edge,2010,24118,177271,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mitsubishi,attrage,2005,33802,177006,Sedan,3,Automatic Transmission,Gasoline,Silver, Dubai
+toyota,land-cruiser,2008,166268,278660,SUV,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+land-rover,range-rover,2008,171712,82330,SUV,8,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,g-class,2024,1363991,267112,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,4-runner,2016,73688,156955,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+ferrari,f12,2007,945715,53403,Coupe,12,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,v-class,2015,435632,172386,Van,4,Automatic Transmission,Gasoline,Black, Dubai
+hyundai,sonata,2017,27397,21607,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+ford,f-series-pickup,2015,391597,244033,Pick Up Truck,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,cls-class,2022,42427,237153,Sedan,6,Automatic Transmission,Gasoline,Black, Abu Dhabi
+jeep,grand-cherokee,2011,164226,23447,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+toyota,land-cruiser,2023,124006,283931,SUV,8,Automatic Transmission,Gasoline,Gold, Dubai
+lexus,lx-series,2007,259969,284386,SUV,8,Automatic Transmission,Gasoline,Black, Abu Dhabi
+nissan,micra,2024,18973,137511,Hatchback,4,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,s-class,2011,37304,267112,Sedan,8,Automatic Transmission,Gasoline,Silver, Dubai
+bmw,x5,2014,134706,39112,SUV,6,Automatic Transmission,Gasoline,Grey, Sharjah
+toyota,supra,2021,191347,196507,Coupe,6,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,tahoe,2014,137808,38332,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+porsche,panamera,2011,75868,39637,Sedan,8,Automatic Transmission,Gasoline,White, Sharjah
+toyota,fj-cruiser,2024,53206,187980,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,s-class,2006,50185,242495,Pick Up Truck,6,Automatic Transmission,Gasoline,Black, Dubai
+honda,civic,2014,41829,221853,Sedan,4,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+toyota,land-cruiser,2016,354518,257189,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mitsubishi,attrage,2019,48074,185696,SUV,3,Automatic Transmission,Gasoline,Burgundy, Dubai
+audi,q8,2009,463673,64921,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,amg-gt-4-doors,2019,517761,288620,Coupe,6,Automatic Transmission,Gasoline,Silver, Dubai
+bmw,3-series,2016,28319,169117,Coupe,6,Automatic Transmission,Gasoline,Brown, Dubai
+lexus,rx-series,2023,112301,67134,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+porsche,carrera,2021,910175,131610,Sports Car,6,Automatic Transmission,Gasoline,Red, Dubai
+nissan,patrol,2024,46710,240348,SUV,6,Manual Transmission,Gasoline,Gold, Dubai
+mercedes-benz,s-class,2021,74162,29149,Sedan,8,Automatic Transmission,Gasoline,Silver, Dubai
+opel,astra,2008,50839,208872,Hatchback,4,Manual Transmission,Gasoline,Red, Dubai
+mercedes-benz,s-class,2024,527717,93298,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+mclaren,570gt,2023,534945,161680,Coupe,8,Automatic Transmission,Gasoline,Purple, Dubai
+volkswagen,golf,2020,62972,268119,Hatchback,4,Automatic Transmission,Gasoline,White, Sharjah
+jaguar,xf,2005,49680,181764,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+dodge,durango,2010,14103,159566,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover,2020,23837,293123,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+gmc,yukon,2018,157167,141539,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+lincoln,mkz,2011,55143,63836,Sedan,4,Automatic Transmission,Gasoline,Red, Abu Dhabi
+ford,edge,2021,38065,29776,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,e-class,2023,101114,221534,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,x-trail,2024,17761,116280,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,e-class,2019,45803,91733,Coupe,6,Automatic Transmission,Gasoline,Blue, Dubai
+jaguar,xk,2019,122523,79862,Coupe,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,gle-class,2024,138895,240824,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+honda,cr-v,2013,46524,84969,SUV,4,Automatic Transmission,Gasoline,Gold, Abu Dhabi
+toyota,rush,2005,51012,41346,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+porsche,boxster,2014,218237,159235,Coupe,4,Automatic Transmission,Gasoline,Black, Dubai
+volkswagen,id4,2008,118958,111610,Crossover,4,Automatic Transmission,Electric,Grey, Dubai
+lexus,gs-series,2018,49438,111461,Sedan,6,Automatic Transmission,Gasoline,Brown, Sharjah
+toyota,land-cruiser,2010,248553,270911,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,s-class,2023,38308,279681,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+mclaren,other,2020,949739,174203,Sports Car,8,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,rav-4,2015,71155,12562,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,s-class,2013,215839,148317,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,discovery,2023,173385,18646,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,gla,2020,94728,169779,SUV,4,Automatic Transmission,Gasoline,White, Sharjah
+jeep,wrangler,2011,114371,18801,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+ford,mustang,2023,76529,283334,Sedan,8,Automatic Transmission,Gasoline,Blue, Dubai
+jeep,grand-cherokee,2016,123234,32190,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+hyundai,tucson,2014,39309,35226,SUV,4,Automatic Transmission,Gasoline,Gold, Sharjah
+hyundai,elantra,2021,61319,194254,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+toyota,camry,2024,42384,154434,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+nissan,altima,2017,41906,151323,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+ford,edge,2023,22406,62692,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+bmw,x7,2020,484612,29483,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+honda,pilot,2006,29593,176571,SUV,6,Automatic Transmission,Gasoline,Red, Abu Dhabi
+mercedes-benz,c-class,2013,123455,222201,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,s-class,2023,50962,268466,Sedan,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+audi,q8,2024,292527,251491,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+jeep,grand-cherokee,2008,159425,209021,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+kia,optima,2014,29408,138591,Sedan,5,Automatic Transmission,Gasoline,White,Dubai
+mini,cooper,2015,32859,231609,Soft Top Convertible,4,Automatic Transmission,Gasoline,Red, Dubai
+land-rover,range-rover,2006,210939,17647,Crossover,8,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,tahoe,2016,68963,135004,SUV,8,Automatic Transmission,Gasoline,Gold, Dubai
+jeep,wrangler-unlimited,2013,64022,74684,Hard Top Convertible,6,Automatic Transmission,Gasoline,Yellow, Dubai
+mitsubishi,lancer,2022,37392,159907,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+chevrolet,trailblazer,2012,64414,64935,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+jeep,gladiator,2016,244916,269945,Pick Up Truck,6,Automatic Transmission,Gasoline,White, Dubai
+ford,mustang,2014,85244,35289,Sports Car,8,Automatic Transmission,Gasoline,Silver, Dubai
+volkswagen,other,2009,140412,107027,SUV,4,Automatic Transmission,Electric,Grey, Dubai
+mercedes-benz,gt,2020,278325,152284,Sports Car,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+mercedes-benz,s-class,2012,606208,21908,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+mitsubishi,pajero,2013,18798,119463,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+hyundai,h1,2006,25349,271174,SUV,4,Automatic Transmission,Gasoline,Black, Sharjah
+volkswagen,cc,2020,35490,227488,Sedan,4,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,amg,2019,976224,85378,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,glc,2008,350035,81451,Coupe,4,Automatic Transmission,Gasoline,Black, Dubai
+volkswagen,transporter,2016,31794,176510,Van,4,Manual Transmission,Gasoline,White, Dubai
+jeep,grand-cherokee,2022,66583,260888,SUV,8,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,g-class,2006,249255,294133,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+porsche,carrera,2008,673808,69186,Coupe,6,Automatic Transmission,Gasoline,Green, Dubai
+hyundai,sonata,2024,28766,53411,Sedan,4,Automatic Transmission,Gasoline,Black, Sharjah
+jeep,wrangler,2012,41413,69935,SUV,6,Manual Transmission,Gasoline,Blue, Sharjah
+mercedes-benz,s-class,2011,647160,195571,Sedan,6,Automatic Transmission,Gasoline,Grey, Sharjah
+jeep,grand-cherokee,2005,81079,167658,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+ford,f-series-pickup,2014,49994,33967,Pick Up Truck,8,Automatic Transmission,Gasoline,Blue, Dubai
+maserati,quattroporte,2010,108887,167508,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+honda,accord,2009,23944,61758,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+maserati,granturismo,2014,151481,258345,Coupe,8,Automatic Transmission,Gasoline,Blue, Dubai
+kia,stinger,2016,65723,221815,Sedan,6,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,gle-class,2005,162045,230587,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+dodge,challenger,2022,86520,230635,Sports Car,8,Automatic Transmission,Gasoline,White, Dubai
+bmw,x5,2007,41529,115874,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,c-class,2022,372692,122485,Sedan,4,Automatic Transmission,Gasoline,Blue, Dubai
+aston-martin,vantage,2016,508394,290504,Coupe,8,Automatic Transmission,Gasoline,Green, Dubai
+bentley,continental-flying-spur,2007,140339,202743,Sedan,12,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,c-class,2023,35655,150426,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+audi,a6,2016,50809,84300,Sedan,6,Automatic Transmission,Gasoline,Brown, Dubai
+lexus,rx-series,2019,15312,45272,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+land-rover,defender,2012,670252,276460,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+bmw,7-series,2008,72211,183521,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+ferrari,f8-tributo,2021,1363603,232672,Coupe,8,Automatic Transmission,Gasoline,Red, Dubai
+toyota,rav-4,2008,58211,113400,SUV,8,Automatic Transmission,Gasoline,Red, Dubai
+bmw,6-series,2009,101670,120801,Sports Car,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2005,1127608,82245,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+dodge,ram,2019,180652,96146,Pick Up Truck,8,Automatic Transmission,Gasoline,Black, Sharjah
+mercedes-benz,c-class,2017,42760,295765,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+toyota,hilux,2012,25390,172450,Pick Up Truck,4,Manual Transmission,Hybrid,White, Dubai
+toyota,camry,2012,23297,13160,Sedan,4,Automatic Transmission,Gasoline,Yellow, Dubai
+bmw,x5,2010,103427,255347,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+honda,cr-v,2018,22874,231037,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+lexus,lx600,2011,684322,189787,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+jeep,wrangler,2016,77502,238466,SUV,6,Automatic Transmission,Gasoline,White, Sharjah
+dodge,charger,2006,54667,222954,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+lotus,evora,2011,390380,66282,Coupe,6,Automatic Transmission,Gasoline,Silver, Dubai
+porsche,macan,2006,220019,242580,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,8-series,2013,468024,210477,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+jeep,grand-cherokee,2009,58124,112385,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,c43,2018,130680,146638,Soft Top Convertible,6,Automatic Transmission,Gasoline,White, Dubai
+mini,countryman,2011,69308,64635,Sedan,4,Automatic Transmission,Diesel,Grey, Ajman
+jeep,compass,2009,100779,111251,SUV,4,Automatic Transmission,Gasoline,White,Abu Dhabi
+volvo,xc90,2015,264746,285775,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover-sport,2013,645937,135311,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+dodge,ram,2023,115274,10460,Pick Up Truck,8,Automatic Transmission,Gasoline,Blue, Dubai
+volkswagen,beetle,2023,68663,191181,Coupe,4,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover-velar,2018,323579,89201,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+jeep,grand-cherokee,2020,153191,228474,Other,8,Automatic Transmission,Gasoline,White, Sharjah
+mercedes-benz,gl-class,2017,135804,270060,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+lexus,lx600,2005,634244,206718,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+bmw,x6,2021,725368,196129,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mitsubishi,attrage,2005,30614,83319,Sedan,3,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,s-class,2017,586119,212089,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+peugeot,308,2019,57376,90607,Hatchback,4,Automatic Transmission,Gasoline,Red, Dubai
+dodge,challenger,2022,58745,158950,Sports Car,6,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2018,113342,277079,SUV,6,Manual Transmission,Gasoline,White, Dubai
+toyota,hiace,2011,43502,208113,Van,4,Manual Transmission,Gasoline,White, Sharjah
+nissan,navara,2021,116454,28986,Pick Up Truck,4,Automatic Transmission,Gasoline,White, Dubai
+cadillac,ctscatera,2007,101285,232128,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+volkswagen,beetle,2006,27842,98971,Coupe,4,Automatic Transmission,Gasoline,Grey, Dubai
+hyundai,sonata,2008,57657,214776,Sedan,4,Automatic Transmission,Gasoline,Black, Sharjah
+mitsubishi,pajero,2023,68573,37058,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+bmw,m8,2018,507330,299714,Coupe,8,Automatic Transmission,Gasoline,Black, Dubai
+cadillac,ctscatera,2017,31731,255171,Coupe,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+mercedes-benz,cla,2022,91565,110320,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,cls-class,2017,124851,33334,Sedan,8,Automatic Transmission,Gasoline,Silver, Ajman
+nissan,maxima,2016,48967,68542,Sedan,6,Automatic Transmission,Gasoline,Purple, Dubai
+ferrari,f430,2011,367242,114189,Coupe,8,Automatic Transmission,Gasoline,Red, Dubai
+jaguar,xj-series,2007,49530,158593,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+bmw,7-series,2021,255698,188237,Sedan,12,Automatic Transmission,Gasoline,Black, Abu Dhabi
+mitsubishi,lancer,2019,32118,69815,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,rav-4,2006,132640,106264,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+audi,s8,2007,146870,48327,Sedan,8,Automatic Transmission,Gasoline,Silver, Dubai
+infiniti,q50,2014,110841,207470,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+lexus,nx-300,2024,122369,247382,Sports Car,4,Automatic Transmission,Gasoline,White, Ajman
+porsche,cayenne,2015,367669,244577,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+porsche,carrera,2024,408851,101301,Coupe,6,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,patrol,2024,300645,15012,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+hyundai,sonata,2019,70219,115667,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+maybach,other,2024,1452984,178381,SUV,8,Automatic Transmission,Gasoline,Green, Dubai
+nissan,xterra,2023,21335,163101,SUV,6,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+toyota,land-cruiser,2006,127063,154360,SUV,8,Automatic Transmission,Gasoline,White, Sharjah
+audi,a4,2018,35197,141650,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+bmw,x5,2022,114712,202152,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,camaro,2010,158182,68296,Coupe,8,Automatic Transmission,Gasoline,Yellow, Dubai
+hyundai,santa-fe,2007,33722,128205,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,pathfinder,2014,150345,120976,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+ferrari,f8-tributo,2010,1405458,131850,Coupe,8,Automatic Transmission,Gasoline,Red, Dubai
+maybach,other,2006,1469807,205423,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover,2021,321730,46042,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+nissan,pathfinder,2017,53547,38028,SUV,6,Automatic Transmission,Gasoline,Black, Sharjah
+volkswagen,id6,2014,158628,131622,Crossover,4,Automatic Transmission,Electric,Blue, Dubai
+audi,q5,2019,38143,282559,SUV,4,Automatic Transmission,Gasoline,Silver, Dubai
+nissan,gt-r,2007,226030,33290,Sedan,6,Automatic Transmission,Gasoline,Grey, Sharjah
+audi,r8,2018,710390,87530,Coupe,10,Automatic Transmission,Gasoline,Silver, Dubai
+mazda,cx-9,2007,75070,21765,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+toyota,hilux,2007,73202,13301,Pick Up Truck,4,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,camaro,2013,109138,83136,Coupe,8,Automatic Transmission,Gasoline,Silver, Dubai
+land-rover,range-rover,2007,391076,283965,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+maybach,other,2010,1291290,103936,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+nissan,maxima,2009,45212,287208,Sedan,6,Automatic Transmission,Gasoline,Silver, Sharjah
+ford,figo,2023,16652,298628,Hatchback,4,Automatic Transmission,Gasoline,White, Abu Dhabi
+bmw,3-series,2011,33313,195913,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+lexus,lx-series,2018,309782,170002,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,armada,2014,62169,286624,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,g-class,2012,862889,182460,SUV,8,Automatic Transmission,Gasoline,Beige, Dubai
+bmw,x7,2005,417419,166103,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+nissan,armada,2022,44748,191291,SUV,8,Automatic Transmission,Gasoline,Brown, Abu Dhabi
+porsche,cayenne,2015,104555,296019,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+jeep,grand-cherokee,2015,53573,156733,SUV,8,Automatic Transmission,Gasoline,Red, Dubai
+nissan,patrol,2014,138425,147103,SUV,8,Automatic Transmission,Gasoline,Gold, Dubai
+porsche,boxster,2005,192803,241716,Soft Top Convertible,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,gle-coupe,2022,552184,148806,Coupe,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,maxima,2012,75656,122823,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,pathfinder,2017,64062,129259,SUV,6,Automatic Transmission,Gasoline,Grey, Sharjah
+land-rover,defender,2024,407821,160041,SUV,4,Manual Transmission,Diesel,Green, Dubai
+land-rover,lr2,2017,44200,150688,SUV,4,Automatic Transmission,Gasoline,Silver, Dubai
+jeep,wrangler,2019,152244,274257,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,7-series,2006,443332,125544,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+ford,edge,2021,42241,212047,Other,6,Automatic Transmission,Gasoline,Black, Sharjah
+bmw,x2,2009,183675,261666,Hatchback,4,Automatic Transmission,Gasoline,Black, Dubai
+nissan,xterra,2009,25642,65377,SUV,6,Automatic Transmission,Gasoline,Red, Abu Dhabi
+mitsubishi,lancer,2024,35890,43221,Sedan,4,Automatic Transmission,Gasoline,Red, Dubai
+nissan,maxima,2018,22201,90311,Sedan,4,Automatic Transmission,Gasoline,Red, Dubai
+lamborghini,huracan,2022,1005180,282095,Coupe,10,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,range-rover-evoque,2016,137167,237303,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+ford,f-series-pickup,2009,273746,236041,Pick Up Truck,6,Automatic Transmission,Gasoline,Black, Dubai
+nissan,maxima,2012,30820,47779,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,x5,2010,206161,262745,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,gle-coupe,2019,228615,189019,SUV,8,Automatic Transmission,Gasoline,White, Ajman
+tesla,model-y,2016,253285,255017,SUV,4,Automatic Transmission,Electric,White, Sharjah
+land-rover,range-rover-evoque,2015,132559,32428,SUV,4,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,s-class,2020,301956,38572,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,gt,2007,1936958,114561,Coupe,8,Automatic Transmission,Gasoline,Orange, Dubai
+lexus,ux-200,2018,159955,238687,SUV,4,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+toyota,avanza,2023,21648,219586,Van,4,Automatic Transmission,Gasoline,White, Dubai
+bmw,4-series,2016,111114,111896,Coupe,4,Automatic Transmission,Gasoline,Blue, Dubai
+audi,a6,2012,78330,52872,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+bentley,continental-flying-spur,2024,269260,241447,Sedan,12,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2011,232436,183410,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2020,148513,138960,SUV,6,Manual Transmission,Gasoline,Gold, Dubai
+dodge,challenger,2013,65875,106865,Sports Car,8,Automatic Transmission,Gasoline,Black, Dubai
+bmw,x5,2016,282075,119688,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+ford,f-series-pickup,2005,195348,203798,Pick Up Truck,6,Automatic Transmission,Gasoline,Red, Dubai
+jeep,cherokee,2007,46930,225140,SUV,6,Automatic Transmission,Gasoline,Grey, Sharjah
+nissan,patrol,2011,57299,88181,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,x-trail,2018,46925,245208,SUV,4,Automatic Transmission,Gasoline,White, Abu Dhabi
+toyota,land-cruiser,2014,131717,121448,Pick Up Truck,6,Manual Transmission,Gasoline,Silver, Dubai
+toyota,prado,2006,100734,237052,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2015,1239731,48096,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+porsche,macan,2012,237676,105789,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,cla,2008,60455,203052,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,c-class,2006,43657,203985,Sedan,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+dodge,ram,2010,50917,13281,Pick Up Truck,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,c-class,2016,140188,103163,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,glc,2013,388082,141432,Coupe,6,Automatic Transmission,Gasoline,White, Dubai
+audi,q8,2020,481998,71059,SUV,6,Automatic Transmission,Gasoline,Gold, Abu Dhabi
+fiat,fiat-500,2008,25993,62865,Sedan,4,Automatic Transmission,Gasoline,Red, Abu Dhabi
+ford,mustang,2017,111065,63956,Coupe,8,Automatic Transmission,Gasoline,White, Dubai
+audi,s3rs3,2014,128327,30288,Hatchback,5,Automatic Transmission,Gasoline,Orange, Dubai
+honda,crosstour,2006,57246,226674,Crossover,6,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,s-class,2024,764349,16236,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+audi,a6,2019,50611,19512,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+land-rover,discovery,2014,221866,230057,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,fj-cruiser,2018,70541,265715,SUV,6,Automatic Transmission,Gasoline,Green, Dubai
+volvo,v-class,2016,49810,221539,Hatchback,4,Automatic Transmission,Gasoline,Blue, Dubai
+ford,bronco,2015,223909,288267,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+hummer,h3,2022,24297,114383,SUV,5,Automatic Transmission,Gasoline,Silver, Dubai
+land-rover,range-rover-sport,2012,347268,184930,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+porsche,cayman,2019,171972,180193,Coupe,6,Automatic Transmission,Gasoline,Silver, Dubai
+toyota,land-cruiser,2019,120538,17916,SUV,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+mercedes-benz,e-class,2020,50239,154543,Coupe,6,Automatic Transmission,Gasoline,Blue, Dubai
+mclaren,570s,2010,505140,120565,Coupe,8,Automatic Transmission,Gasoline,Blue, Dubai
+nissan,patrol,2015,144029,293852,SUV,6,Automatic Transmission,Gasoline,Black, Sharjah
+porsche,carrera,2022,306385,206831,Coupe,6,Automatic Transmission,Gasoline,White, Dubai
+porsche,boxster,2010,214602,148521,Sports Car,6,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,e-class,2019,55930,114014,Sedan,6,Automatic Transmission,Gasoline,Blue, Dubai
+jaguar,xf,2024,45611,30439,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,s-class,2011,34542,243780,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+alfa-romeo,stelvio,2006,129817,168109,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+lotus,evora,2017,448606,200049,Sports Car,6,Manual Transmission,Gasoline,Black, Dubai
+chevrolet,camaro,2014,138127,105093,Coupe,8,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,g-class,2005,991769,112644,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+bmw,3-series,2008,63757,12878,Sedan,3,Automatic Transmission,Gasoline,White, Dubai
+kia,cerato,2015,70648,147496,Hatchback,4,Automatic Transmission,Gasoline,White, Dubai
+porsche,carrera,2018,529632,294774,Sports Car,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+nissan,xterra,2019,131499,68708,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+ferrari,458-spider,2012,639059,141806,Coupe,8,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,e-class,2014,155887,199308,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+ford,edge,2020,16726,18712,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+volkswagen,id6,2014,121245,272611,Crossover,4,Automatic Transmission,Electric,Blue, Dubai
+nissan,xterra,2012,17818,176592,Sedan,6,Automatic Transmission,Gasoline,Black, Sharjah
+porsche,cayenne,2022,98635,230104,SUV,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+kia,cerato,2024,49211,210908,Sedan,4,Automatic Transmission,Gasoline,Blue, Sharjah
+mercedes-benz,c-class,2022,185251,62748,Coupe,6,Automatic Transmission,Gasoline,Black, Dubai
+ferrari,california-t,2019,536167,140559,Hard Top Convertible,8,Automatic Transmission,Gasoline,Red, Dubai
+mazda,3,2023,40284,143187,Hatchback,4,Automatic Transmission,Gasoline,Silver, Dubai
+rolls-royce,phantom,2019,889965,297031,Sedan,12,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,e-class,2021,53767,46645,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover-sport,2005,131112,39245,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,c-class,2022,38682,16269,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+hyundai,sonata,2011,32528,33239,Sedan,4,Automatic Transmission,Gasoline,Red, Sharjah
+volkswagen,other,2010,95340,276169,Crossover,4,Automatic Transmission,Electric,White, Dubai
+land-rover,range-rover,2022,176161,269750,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,hilux,2012,71277,162936,Pick Up Truck,4,Manual Transmission,Gasoline,White, Sharjah
+jaguar,f-type,2005,199696,41511,Soft Top Convertible,8,Automatic Transmission,Gasoline,Red, Dubai
+toyota,land-cruiser,2008,151351,109546,Pick Up Truck,6,Manual Transmission,Diesel,White, Dubai
+porsche,carrera,2023,573881,237266,Coupe,6,Automatic Transmission,Gasoline,Grey, Dubai
+audi,q5,2015,62295,186138,SUV,4,Automatic Transmission,Gasoline,Silver, Dubai
+chevrolet,camaro,2006,69966,293181,Sports Car,6,Automatic Transmission,Gasoline,Yellow, Dubai
+mercedes-benz,c-class-coupe,2007,89057,208084,Coupe,4,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,impala,2020,36410,204568,Sedan,6,Automatic Transmission,Gasoline,Black, Sharjah
+audi,other,2006,173355,121455,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2007,113513,34126,SUV,8,Automatic Transmission,Gasoline,Brown, Dubai
+mercedes-benz,e-class,2021,183848,246724,Sedan,6,Automatic Transmission,Gasoline,Red, Dubai
+gmc,sierra,2011,76019,290201,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+gmc,sierra,2014,56662,127336,SUV,8,Automatic Transmission,Gasoline,Black, Sharjah
+mitsubishi,montero-sport,2010,131029,123533,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,x1,2009,29898,257748,SUV,4,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+land-rover,range-rover-sport,2012,354191,91420,SUV,6,Automatic Transmission,Gasoline,Brown, Sharjah
+audi,s3rs3,2023,201707,54310,Hatchback,4,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,pathfinder,2024,50089,237041,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mitsubishi,montero-sport,2005,49160,188576,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,7-series,2022,324887,91007,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+ford,f-series-pickup,2017,67644,298292,Pick Up Truck,8,Automatic Transmission,Gasoline,Red, Abu Dhabi
+ferrari,488-gtb,2013,651329,260310,Sports Car,8,Automatic Transmission,Gasoline,Orange, Dubai
+mercedes-benz,m-class,2005,16907,160905,SUV,6,Automatic Transmission,Gasoline,Red,Dubai
+nissan,murano,2010,17932,137944,Crossover,6,Automatic Transmission,Gasoline,Black, Dubai
+hyundai,sonata,2015,45621,233584,Sedan,4,Automatic Transmission,Gasoline,Red, Ajman
+mercedes-benz,cls-class,2009,94226,136325,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+bmw,3-series,2005,47932,288149,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+volkswagen,id6,2020,162285,192792,Crossover,4,Automatic Transmission,Electric,Blue, Dubai
+ford,ecosport,2020,28606,105634,SUV,4,Automatic Transmission,Gasoline,White, Abu Dhabi
+mercedes-benz,s-class,2010,16276,233420,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+bmw,5-series,2022,84254,275935,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+chevrolet,traverse,2008,90973,221533,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,c-class,2008,114939,165256,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+toyota,other,2023,204340,272164,Other,4,Manual Transmission,Diesel,White, Dubai
+bmw,4-series,2016,95874,92319,Coupe,4,Automatic Transmission,Gasoline,Red, Dubai
+honda,accord,2006,26818,216271,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+lexus,lx-series,2017,154413,33862,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+toyota,fortuner,2021,158443,252397,SUV,4,Automatic Transmission,Diesel,White, Dubai
+rolls-royce,wraith,2005,1021317,219221,Coupe,12,Automatic Transmission,Gasoline,Brown, Dubai
+jeep,grand-cherokee,2020,166681,74700,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,amg,2011,460277,198595,Hard Top Convertible,8,Automatic Transmission,Gasoline,Silver, Dubai
+volkswagen,arteon,2022,95029,32421,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+fiat,124-spider,2012,75625,137294,Coupe,4,Automatic Transmission,Gasoline,White, Abu Dhabi
+lotus,evora,2010,379596,34630,Coupe,6,Automatic Transmission,Gasoline,Green, Dubai
+mitsubishi,pajero,2014,38628,82386,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+volkswagen,gti,2019,29229,152112,Hatchback,4,Automatic Transmission,Gasoline,Blue, Dubai
+jaguar,xe,2016,75429,267452,Other,4,Automatic Transmission,Gasoline,Black, Dubai
+volkswagen,tiguan,2021,72661,231410,SUV,4,Automatic Transmission,Gasoline,Brown, Dubai
+nissan,altima,2014,19151,45421,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+volkswagen,golf,2024,103218,292514,Hatchback,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,c-class,2008,26181,74319,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,glc,2021,189555,299421,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+jeep,wrangler-unlimited,2024,118533,220803,SUV,6,Automatic Transmission,Gasoline,Green, Dubai
+mercedes-benz,gla,2019,105870,135743,SUV,4,Automatic Transmission,Gasoline,Red, Dubai
+nissan,patrol,2011,68805,208704,SUV,8,Automatic Transmission,Gasoline,White, Sharjah
+toyota,prado,2020,99291,161326,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+toyota,hilux,2021,148695,236866,Pick Up Truck,6,Automatic Transmission,Gasoline,Black, Dubai
+toyota,prado,2019,66225,150105,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover-sport,2008,222890,226999,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+audi,s7rs7,2007,662248,195328,Sedan,8,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,c-class,2016,134439,159158,Sedan,6,Automatic Transmission,Gasoline,Red, Dubai
+nissan,patrol,2022,93429,262480,SUV,8,Automatic Transmission,Gasoline,Brown, Dubai
+toyota,prado,2015,93265,49846,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+toyota,prado,2023,84418,97067,SUV,4,Automatic Transmission,Gasoline,White, Abu Dhabi
+nissan,armada,2015,29346,252077,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,gle-class,2005,235034,80125,Coupe,6,Automatic Transmission,Gasoline,Black, Dubai
+mitsubishi,pajero,2023,70330,176552,SUV,6,Automatic Transmission,Gasoline,Brown, Dubai
+chevrolet,tahoe,2012,116977,56460,SUV,8,Automatic Transmission,Gasoline,Black, Sharjah
+lexus,ls-series,2020,16042,33114,Sedan,8,Automatic Transmission,Gasoline,Red, Sharjah
+bmw,x5,2011,57840,16254,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,v-class,2014,496243,131606,Van,4,Automatic Transmission,Gasoline,Black, Dubai
+dodge,durango,2022,160970,180638,SUV,8,Automatic Transmission,Gasoline,Burgundy, Dubai
+nissan,patrol,2007,111240,125141,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+porsche,cayenne,2009,67574,246003,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+porsche,panamera,2020,279280,31922,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,4-series,2018,83987,87775,Sedan,6,Automatic Transmission,Gasoline,Black, Abu Dhabi
+nissan,patrol,2015,82547,192095,SUV,6,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+porsche,carrera,2022,446581,23513,Coupe,6,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,land-cruiser,2011,371253,222028,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+audi,s7rs7,2012,545056,122992,Sports Car,8,Automatic Transmission,Gasoline,Grey, Dubai
+volkswagen,id6,2016,177666,193553,SUV,4,Automatic Transmission,Electric,Blue, Dubai
+audi,q7,2007,168993,261917,SUV,6,Automatic Transmission,Gasoline,Beige, Dubai
+porsche,cayman,2012,131122,110773,Coupe,6,Automatic Transmission,Gasoline,Black, Dubai
+lexus,rx-series,2024,184194,73024,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover-sport,2019,403935,14986,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,cls-class,2006,95334,253730,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+honda,civic,2013,43516,184386,Sedan,4,Automatic Transmission,Gasoline,Red, Dubai
+toyota,hilux,2006,112983,126607,Pick Up Truck,4,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,g-class,2017,849839,193627,SUV,8,Automatic Transmission,Gasoline,Green, Dubai
+nissan,sentra,2014,35639,272073,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover,2005,229447,90174,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2009,258808,26675,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+bmw,x6,2010,92166,110564,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+toyota,tundra,2024,298236,236765,SUV,8,Automatic Transmission,Gasoline,Red, Dubai
+mitsubishi,pajero,2018,55741,69133,Sedan,6,Automatic Transmission,Gasoline,White, Sharjah
+nissan,altima,2020,33311,133763,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+ford,f-series-pickup,2005,238614,10831,Pick Up Truck,6,Automatic Transmission,Gasoline,Burgundy, Dubai
+nissan,sentra,2014,47467,39026,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,murano,2024,16138,19008,Crossover,6,Automatic Transmission,Gasoline,Black, Dubai
+audi,q7,2021,174814,93246,SUV,6,Automatic Transmission,Gasoline,Beige, Dubai
+kia,telluride,2014,103244,94676,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+audi,a6,2007,216833,40005,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,x6,2006,106787,207980,SUV,6,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+volkswagen,golfr,2013,86142,86152,Hatchback,4,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,fj-cruiser,2021,86045,89706,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,x4,2012,184593,59193,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2014,301072,81811,SUV,8,Automatic Transmission,Gasoline,White, Sharjah
+land-rover,range-rover-sport,2020,381311,199305,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,altima,2024,65545,181988,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+chevrolet,tahoe,2022,45121,71709,SUV,8,Automatic Transmission,Gasoline,Burgundy, Dubai
+mitsubishi,asx,2019,58499,75725,SUV,4,Automatic Transmission,Gasoline,Red, Dubai
+chevrolet,camaro,2017,29441,146958,Hard Top Convertible,6,Automatic Transmission,Gasoline,Yellow, Dubai
+ford,pickup,2021,55769,191712,Pick Up Truck,8,Automatic Transmission,Gasoline,Blue, Dubai
+ford,expedition,2006,89971,290934,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,m-class,2009,72104,183636,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+porsche,macan,2011,164878,247676,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+lotus,evora,2013,448031,195127,Coupe,6,Automatic Transmission,Gasoline,Silver, Dubai
+dodge,charger,2008,103717,291288,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+fiat,500x,2005,42727,289290,Coupe,4,Manual Transmission,Gasoline,Red,Ajman
+mercedes-benz,c-class,2005,375546,267520,Sedan,8,Automatic Transmission,Gasoline,Blue, Dubai
+bentley,continental-flying-spur,2006,263701,123497,Sedan,12,Automatic Transmission,Gasoline,Black, Dubai
+chevrolet,silverado,2016,93626,116027,Utility Truck,8,Automatic Transmission,Gasoline,White, Dubai
+bentley,continental-flying-spur,2009,1368673,11124,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2020,78098,211308,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+volvo,v-class,2013,52577,154873,Hatchback,4,Automatic Transmission,Gasoline,Blue, Dubai
+land-rover,range-rover-sport,2005,63872,67464,SUV,8,Automatic Transmission,Gasoline,Gold, Dubai
+toyota,camry,2014,26240,293187,Sedan,4,Automatic Transmission,Gasoline,White, Al Ain
+infiniti,q80,2016,113655,148362,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+aston-martin,db11,2006,814791,210934,Coupe,8,Automatic Transmission,Gasoline,Blue, Dubai
+nissan,sunny,2021,39238,161838,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+dodge,challenger,2018,221850,44476,Coupe,8,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,corvette,2018,448226,140105,Coupe,8,Automatic Transmission,Gasoline,Red, Abu Dhabi
+kia,picanto,2023,35330,192780,Hatchback,4,Automatic Transmission,Gasoline,Silver, Dubai
+nissan,altima,2009,16936,51431,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+chevrolet,blazer,2010,121016,232583,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+jaguar,xe,2008,102431,166535,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+cadillac,ct6,2016,176336,129253,Sedan,6,Automatic Transmission,Gasoline,Black, Abu Dhabi
+porsche,carrera,2018,444207,273784,Sports Car,6,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+toyota,tundra,2018,53374,137242,SUV,8,Automatic Transmission,Gasoline,White,Ajman
+land-rover,range-rover-velar,2018,268092,147956,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+rolls-royce,cullinan,2012,2212245,239909,SUV,12,Automatic Transmission,Gasoline,Black, Dubai
+bentley,continental,2007,441519,56432,Sports Car,8,Automatic Transmission,Gasoline,White, Dubai
+nissan,sunny,2017,32606,219731,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+porsche,carrera,2013,116607,119113,Coupe,6,Automatic Transmission,Gasoline,Silver, Dubai
+porsche,cayenne,2022,79929,179353,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+toyota,camry,2014,142132,132286,Sedan,4,Automatic Transmission,Gasoline,Brown, Dubai
+bmw,5-series,2006,83459,210138,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+hyundai,santa-fe,2014,110123,28469,SUV,4,Automatic Transmission,Gasoline,Black, Ajman
+jeep,wrangler-unlimited,2018,437251,180719,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+mazda,cx-9,2013,27927,63180,SUV,6,Automatic Transmission,Gasoline,Burgundy, Dubai
+bmw,5-series,2011,52341,35604,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover,2011,368311,217919,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover,2021,134473,194335,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2015,1411783,236701,SUV,8,Automatic Transmission,Gasoline,Red, Dubai
+bmw,6-series,2015,117020,109541,Sedan,6,Automatic Transmission,Gasoline,Blue, Dubai
+land-rover,range-rover,2013,1313367,278974,SUV,8,Automatic Transmission,Gasoline,Gold, Dubai
+ferrari,599,2017,4002508,194137,Coupe,12,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,c-class-coupe,2022,92916,160037,Coupe,4,Automatic Transmission,Gasoline,Blue, Dubai
+nissan,maxima,2021,62339,112406,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+jeep,wrangler-unlimited,2005,115115,175039,Hard Top Convertible,6,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,range-rover,2007,33857,130819,SUV,8,Automatic Transmission,Gasoline,Brown, Dubai
+bmw,7-series,2023,69743,264514,Sedan,8,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,cla,2015,113735,230906,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,range-rover-sport,2020,348500,119180,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+toyota,fortuner,2021,103097,44479,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+dodge,charger,2009,71677,119557,Sedan,8,Automatic Transmission,Gasoline,Blue, Dubai
+porsche,panamera,2024,120285,118463,Sedan,8,Automatic Transmission,Gasoline,Black, Sharjah
+volkswagen,id4,2010,115545,80690,Crossover,4,Automatic Transmission,Electric,Grey, Dubai
+audi,q7,2006,71400,28525,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+volkswagen,jetta,2016,30621,297177,Sedan,4,Automatic Transmission,Gasoline,Blue, Dubai
+dodge,charger,2021,29761,183491,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+audi,q3,2006,76677,291532,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+volkswagen,golfr,2014,62435,271425,Hatchback,4,Automatic Transmission,Gasoline,White, Sharjah
+hyundai,tucson,2021,31803,124506,SUV,4,Automatic Transmission,Gasoline,White, Sharjah
+nissan,patrol,2024,181601,156212,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+hyundai,santa-fe,2010,115476,174967,SUV,5,Automatic Transmission,Gasoline,Brown, Dubai
+land-rover,range-rover-velar,2006,210518,170624,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+jeep,grand-cherokee,2007,86014,256745,SUV,8,Automatic Transmission,Gasoline,Red, Dubai
+kia,cerato,2018,35962,290066,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+toyota,corolla,2008,57473,87923,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+bmw,4-series,2005,106670,203282,Coupe,4,Automatic Transmission,Gasoline,Black, Dubai
+hyundai,santa-fe,2020,40209,102314,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+toyota,land-cruiser-76-series,2007,102912,219544,Pick Up Truck,4,Manual Transmission,Gasoline,White, Dubai
+hyundai,sonata,2008,35161,28774,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+mercedes-benz,cla,2010,221778,163025,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,cls-class,2019,65151,263337,Sedan,8,Automatic Transmission,Gasoline,Grey, Dubai
+bmw,x6,2009,218642,42433,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+lotus,evora,2016,155651,183616,Sports Car,6,Automatic Transmission,Gasoline,White, Dubai
+toyota,corolla,2013,46288,231235,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+toyota,land-cruiser-76-series,2011,102946,43728,Pick Up Truck,6,Manual Transmission,Gasoline,White, Dubai
+mercedes-maybach,s-class,2005,1235165,18955,Sedan,12,Automatic Transmission,Gasoline,Green, Dubai
+gmc,sierra,2005,119351,68304,Pick Up Truck,8,Automatic Transmission,Gasoline,Black, Sharjah
+volkswagen,golfr,2012,56792,215619,Hatchback,4,Automatic Transmission,Gasoline,White, Dubai
+rolls-royce,ghost,2014,423566,114329,Sedan,12,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,m-class,2023,26985,270898,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,cls-class,2024,54829,48212,Sedan,6,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+mercedes-benz,glk,2016,33423,190787,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+cadillac,ats,2009,43559,258213,Sedan,4,Automatic Transmission,Gasoline,Red, Dubai
+chevrolet,impala,2010,44494,250365,Sedan,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+honda,accord,2021,47601,231676,Sedan,4,Automatic Transmission,Gasoline,White, Ajman
+mercedes-benz,gle-coupe,2007,482356,235844,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,s-class,2024,142442,152295,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,cls-class,2023,21251,155226,Sedan,6,Automatic Transmission,Gasoline,Red, Dubai
+nissan,altima,2009,62739,131262,Sedan,4,Automatic Transmission,Gasoline,Grey,Abu Dhabi
+chevrolet,impala,2008,78052,121124,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+dodge,charger,2005,86089,281589,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,land-cruiser,2014,301554,31292,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+ford,edge,2016,42161,74236,SUV,6,Automatic Transmission,Gasoline,Brown, Abu Dhabi
+ford,pickup,2020,147764,253011,Utility Truck,8,Automatic Transmission,Gasoline,Silver, Ajman
+toyota,land-cruiser,2013,268770,195743,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover-velar,2009,190499,99439,SUV,4,Automatic Transmission,Gasoline,Black, Sharjah
+toyota,land-cruiser,2015,199581,63765,SUV,6,Automatic Transmission,Gasoline,Black, Sharjah
+toyota,prado,2015,133230,287888,SUV,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+lexus,gs-series,2005,62940,266908,Sedan,6,Automatic Transmission,Gasoline,Gold, Sharjah
+mitsubishi,pajero,2023,67019,121444,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+bmw,4-series,2011,79208,160828,Hard Top Convertible,6,Manual Transmission,Gasoline,White, Dubai
+ferrari,599,2024,4197282,220775,Coupe,12,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,m-class,2009,64586,209157,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+tesla,model-3,2007,181342,287736,Sedan,4,Automatic Transmission,Electric,White,Sharjah
+toyota,prado,2016,133848,123691,SUV,6,Automatic Transmission,Gasoline,White, Abu Dhabi
+toyota,prado,2013,96083,168333,SUV,6,Automatic Transmission,Gasoline,White, Ajman
+toyota,highlander,2021,160278,107652,SUV,6,Automatic Transmission,Gasoline,Red, Sharjah
+ferrari,f12,2018,635927,87399,Sports Car,12,Automatic Transmission,Gasoline,Red, Dubai
+toyota,hilux,2016,64444,121001,SUV,4,Manual Transmission,Gasoline,White, Dubai
+toyota,hilux,2007,99392,65832,Pick Up Truck,4,Automatic Transmission,Gasoline,Black, Dubai
+jeep,wrangler-unlimited,2015,179050,44635,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2006,1146454,111307,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+porsche,panamera,2024,445342,47785,Sedan,6,Automatic Transmission,Gasoline,Brown, Dubai
+mercedes-benz,e-class,2023,79879,161536,Wagon,4,Automatic Transmission,Gasoline,Black, Dubai
+toyota,corolla,2017,51883,177795,Sedan,4,Automatic Transmission,Gasoline,Grey,Abu Dhabi
+ford,focus,2024,86601,51025,Hatchback,4,Manual Transmission,Gasoline,Other Color, Dubai
+bmw,7-series,2015,42356,254377,Sedan,6,Automatic Transmission,Gasoline,Gold, Dubai
+mercedes-benz,c-class,2013,39039,72231,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+toyota,yaris,2017,16637,98283,Sedan,4,Automatic Transmission,Gasoline,Black, Sharjah
+renault,duster,2019,45469,213736,SUV,4,Automatic Transmission,Gasoline,Silver, Dubai
+bmw,7-series,2016,112907,65477,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+hyundai,genesis,2005,74937,61530,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+audi,s5rs5,2009,98263,77881,Sports Car,8,Automatic Transmission,Gasoline,Black, Dubai
+chevrolet,silverado,2010,175546,34183,Pick Up Truck,8,Automatic Transmission,Gasoline,Black, Dubai
+audi,a6,2020,47211,61411,Sedan,6,Automatic Transmission,Gasoline,Brown, Dubai
+audi,a6,2022,68501,206377,Sedan,4,Automatic Transmission,Gasoline,Black,Abu Dhabi
+rolls-royce,cullinan,2015,1807197,118080,SUV,12,Automatic Transmission,Gasoline,White, Dubai
+bmw,7-series,2013,508622,24918,Sedan,8,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+dodge,charger,2018,96070,293246,Sedan,8,Automatic Transmission,Gasoline,Burgundy, Abu Dhabi
+nissan,pathfinder,2009,56957,62601,SUV,6,Automatic Transmission,Gasoline,Brown, Abu Dhabi
+toyota,camry,2009,53282,155746,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+toyota,hiace,2013,84603,216493,Van,4,Manual Transmission,Gasoline,White, Dubai
+hyundai,tucson,2006,59424,170483,SUV,4,Automatic Transmission,Gasoline,Silver, Dubai
+rolls-royce,cullinan,2020,2811800,143933,SUV,12,Automatic Transmission,Gasoline,White, Dubai
+hyundai,tucson,2006,100753,12976,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+lincoln,mkx,2016,90150,271919,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+lincoln,aviator,2022,207028,165187,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,s-class,2006,1026039,10014,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,c-class,2012,166091,67660,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+mitsubishi,pajero,2012,84249,86534,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+jaguar,xf,2011,23280,161751,Sedan,6,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+dodge,charger,2017,15842,281202,Sedan,6,Automatic Transmission,Gasoline,Blue, Dubai
+jeep,wrangler,2020,47287,75229,SUV,6,Manual Transmission,Gasoline,Black, Sharjah
+dodge,charger,2014,56762,124783,Sports Car,8,Automatic Transmission,Gasoline,Red, Ajman
+jeep,wrangler,2007,208842,44718,SUV,6,Automatic Transmission,Gasoline,Green, Dubai
+jeep,grand-cherokee,2007,160212,235248,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+jeep,wrangler,2016,71525,164457,SUV,6,Manual Transmission,Gasoline,White, Abu Dhabi
+chevrolet,silverado,2012,138574,72461,Pick Up Truck,8,Automatic Transmission,Gasoline,Grey, Dubai
+volkswagen,passat,2022,29699,244353,Sedan,5,Automatic Transmission,Gasoline,Red, Dubai
+bmw,5-series,2020,22931,259045,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+jeep,grand-cherokee,2016,197050,121910,SUV,6,Automatic Transmission,Gasoline,Purple, Dubai
+ford,figo,2019,24836,166504,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mini,cooper,2019,22991,295189,Hatchback,4,Automatic Transmission,Gasoline,Red, Dubai
+chevrolet,captiva,2014,83218,275777,Hatchback,4,Automatic Transmission,Gasoline,White, Dubai
+toyota,camry,2022,94347,197181,Sedan,4,Automatic Transmission,Gasoline,Grey, Ajman
+cadillac,escalade,2006,222538,172869,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+nissan,x-trail,2020,45101,174018,Sedan,4,Automatic Transmission,Gasoline,Burgundy, Sharjah
+toyota,tacoma,2015,211589,160684,SUV,6,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+cadillac,escalade,2013,61844,216628,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+renault,duster,2021,39249,232139,SUV,4,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+audi,a7,2009,95528,155546,Sedan,6,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+toyota,rush,2010,50765,196880,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+lamborghini,aventador,2013,1832586,205748,Hard Top Convertible,12,Automatic Transmission,Gasoline,Blue, Dubai
+ferrari,california,2024,391027,235026,Soft Top Convertible,8,Automatic Transmission,Gasoline,Red, Dubai
+hyundai,sonata,2024,47225,216053,Sedan,4,Automatic Transmission,Gasoline,Grey, Sharjah
+mercedes-benz,g-class,2015,1230178,201321,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+bmw,4-series,2023,142247,199036,Hard Top Convertible,4,Automatic Transmission,Gasoline,Blue, Dubai
+chevrolet,cruze,2018,14507,225549,Sedan,4,Automatic Transmission,Gasoline,Grey, Sharjah
+mercedes-benz,e-class,2008,36148,128013,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+mitsubishi,pajero,2013,73613,94925,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+lexus,lx-series,2010,85823,215429,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+ford,escape,2013,35098,109581,SUV,4,Automatic Transmission,Gasoline,Silver, Dubai
+dodge,ram,2023,79928,202059,Pick Up Truck,8,Automatic Transmission,Gasoline,Black, Dubai
+renault,dokker,2019,17380,258028,Van,4,Manual Transmission,Gasoline,White, Dubai
+hyundai,palisade,2024,163856,195466,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+volkswagen,gti,2022,176212,99471,Hatchback,4,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover-sport,2021,141672,295690,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+toyota,land-cruiser,2007,29043,142547,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+bmw,3-series,2022,95286,35410,Sedan,3,Automatic Transmission,Gasoline,White, Dubai
+bmw,1-series,2013,81965,177836,Hatchback,4,Automatic Transmission,Gasoline,Blue, Dubai
+bmw,x5,2020,185190,155050,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,patrol,2019,75677,75673,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+nissan,sunny,2016,17496,199162,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+nissan,altima,2014,49292,246740,Sedan,4,Automatic Transmission,Gasoline,Red, Dubai
+audi,q7,2006,110823,255892,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mini,cooper,2010,24201,252262,Hatchback,4,Automatic Transmission,Gasoline,Green, Dubai
+mercedes-benz,c-class,2009,299079,50443,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2016,87582,245921,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,corolla,2012,50434,277103,Sedan,4,Automatic Transmission,Gasoline,Grey,Abu Dhabi
+chevrolet,equinox,2023,56609,257238,SUV,4,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,s-class,2017,1359595,99745,Sedan,12,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,c-class,2009,43091,274881,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+bentley,continental-gt,2017,908258,238567,Coupe,12,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,s-class,2013,367857,28193,Sedan,8,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,r-class,2013,16005,299507,SUV,8,Automatic Transmission,Gasoline,Black, Sharjah
+lamborghini,urus,2021,1910904,136220,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+nissan,patrol,2011,128244,228469,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+honda,hr-v,2005,65175,109335,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+mitsubishi,pajero,2010,26025,104764,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+dodge,charger,2015,47890,245843,Sedan,6,Automatic Transmission,Gasoline,Red, Dubai
+toyota,fortuner,2009,80744,293809,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,patrol,2010,122889,111054,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,prado,2005,81660,262601,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+hyundai,h1,2017,27562,265446,Van,4,Manual Transmission,Gasoline,White, Dubai
+mercedes-benz,c43,2013,126461,58765,Coupe,6,Automatic Transmission,Gasoline,Silver, Dubai
+dodge,ram,2006,147539,85098,Other,6,Automatic Transmission,Gasoline,Black, Sharjah
+toyota,land-cruiser,2017,44476,166654,SUV,6,Manual Transmission,Gasoline,Black, Dubai
+lexus,ux-200,2006,166382,82794,Hatchback,4,Automatic Transmission,Gasoline,Grey, Dubai
+volkswagen,passat,2017,20717,99696,Sedan,5,Automatic Transmission,Gasoline,Red, Abu Dhabi
+volkswagen,passat,2023,18267,57942,Sedan,4,Automatic Transmission,Gasoline,Beige, Abu Dhabi
+maserati,granturismo,2015,197564,120080,Coupe,8,Automatic Transmission,Gasoline,Blue, Dubai
+audi,rs6,2013,788804,225258,Coupe,8,Automatic Transmission,Gasoline,Grey, Dubai
+jeep,grand-cherokee,2012,211534,45464,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+jeep,grand-cherokee,2011,178086,53809,Sedan,6,Automatic Transmission,Gasoline,Silver, Dubai
+volkswagen,gti,2006,41470,10827,Hatchback,4,Automatic Transmission,Gasoline,Black, Dubai
+bentley,continental-gt,2018,273139,215192,Coupe,8,Automatic Transmission,Gasoline,Black, Dubai
+suzuki,jimny,2010,97904,223423,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+rolls-royce,cullinan,2010,3004304,230349,Utility Truck,12,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,lr4,2013,113659,143505,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,g-class,2005,788686,78857,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,e-class,2013,56035,233839,Coupe,6,Automatic Transmission,Gasoline,White, Dubai
+dodge,challenger,2008,123349,220580,Coupe,6,Automatic Transmission,Gasoline,Red, Dubai
+audi,a7,2019,107863,56186,Hatchback,6,Automatic Transmission,Gasoline,Black, Dubai
+toyota,land-cruiser,2014,105854,58347,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,s-class,2016,51565,84817,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+mazda,6,2008,38078,269628,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+jaguar,other,2021,52168,254453,Sedan,6,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,s-class,2016,352646,147500,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover-sport,2022,51637,12390,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mitsubishi,pajero,2021,32020,43425,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,e-class,2007,62011,190348,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,3-series,2022,32618,52817,Soft Top Convertible,6,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,fj-cruiser,2006,62926,135379,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,x6,2018,379289,14693,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,highlander,2005,133116,199355,SUV,6,Automatic Transmission,Gasoline,Red, Sharjah
+audi,q7,2023,63652,237494,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+land-rover,range-rover-velar,2022,283487,202797,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+honda,civic,2023,41375,39054,Sedan,4,Automatic Transmission,Gasoline,Red, Dubai
+bentley,bentayga,2017,822768,204186,SUV,12,Automatic Transmission,Gasoline,Orange, Dubai
+mercedes-benz,cla,2008,85739,21929,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+porsche,cayman,2020,122989,182688,Coupe,6,Automatic Transmission,Gasoline,Grey, Dubai
+lexus,nx-300,2015,149955,86814,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+jeep,grand-cherokee,2017,68172,49141,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+peugeot,expert,2016,40876,288305,Utility Truck,4,Automatic Transmission,Diesel,White, Dubai
+honda,jazz,2010,22461,232612,Hatchback,4,Automatic Transmission,Gasoline,Purple, Dubai
+land-rover,range-rover-velar,2008,225210,157106,SUV,4,Automatic Transmission,Gasoline,Blue, Dubai
+gmc,sierra,2008,149949,207749,SUV,8,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+land-rover,range-rover,2009,180814,194818,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mitsubishi,outlander,2022,23999,151252,Crossover,6,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2024,332883,143340,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+porsche,cayenne,2014,172349,77433,SUV,6,Automatic Transmission,Gasoline,White, Sharjah
+porsche,cayenne,2018,62648,279071,SUV,6,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+jeep,gladiator,2011,268469,217355,Pick Up Truck,6,Automatic Transmission,Gasoline,Black, Dubai
+honda,accord,2023,54454,127662,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,sunny,2022,38648,39996,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+jeep,cherokee,2011,22690,223769,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+ford,f-series-pickup,2023,225310,82413,Pick Up Truck,6,Automatic Transmission,Gasoline,Blue, Dubai
+land-rover,range-rover-sport,2023,370085,109263,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+mitsubishi,pajero,2017,94675,158035,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,murano,2008,13088,16674,SUV,6,Automatic Transmission,Gasoline,Gold, Abu Dhabi
+bentley,continental,2010,291258,275019,Coupe,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+mercedes-benz,gt,2020,285986,187432,Coupe,8,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover-sport,2014,148378,145807,Crossover,6,Automatic Transmission,Gasoline,Gold, Dubai
+jeep,grand-cherokee,2009,202871,74134,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+hyundai,elantra,2015,22528,211860,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+nissan,sunny,2018,35066,20858,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+bmw,x6,2005,35332,47601,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,land-cruiser,2009,55926,275760,SUV,8,Automatic Transmission,Gasoline,White, Sharjah
+gmc,yukon,2011,168325,114700,SUV,8,Automatic Transmission,Gasoline,Black, Sharjah
+toyota,fj-cruiser,2017,49032,67554,SUV,6,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+toyota,corolla,2024,44484,68697,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+mini,cooper,2008,151523,143425,Hatchback,4,Automatic Transmission,Gasoline,Black, Dubai
+volkswagen,id4,2007,113970,111142,Crossover,4,Automatic Transmission,Electric,Grey, Dubai
+mercedes-benz,c-class,2008,78762,215458,Sedan,4,Automatic Transmission,Gasoline,Blue, Dubai
+nissan,altima,2013,18981,16186,Sedan,4,Automatic Transmission,Gasoline,Silver, Sharjah
+nissan,patrol,2019,319079,216229,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+nissan,maxima,2016,50580,260062,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+hyundai,sonata,2013,27701,272758,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+mitsubishi,lancer,2019,11808,162059,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+ford,fusion,2016,33432,144652,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,e-class,2015,263945,286849,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,discovery,2017,232385,289381,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,pathfinder,2017,79074,158565,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+dodge,challenger,2012,36725,43484,Coupe,6,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+bmw,3-series,2016,188587,173150,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+dodge,ram,2013,380675,209915,SUV,8,Automatic Transmission,Gasoline,Black, Sharjah
+nissan,patrol,2008,333851,232110,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,gla,2010,91152,142493,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+lincoln,mkx,2008,42129,262061,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+toyota,aurion,2020,40031,125134,Sedan,6,Automatic Transmission,Gasoline,Black, Abu Dhabi
+chevrolet,malibu,2007,14092,105145,Sedan,6,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,c-class-coupe,2012,78317,213101,Coupe,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,sl-class,2024,140062,278883,Hard Top Convertible,8,Automatic Transmission,Gasoline,White, Dubai
+cadillac,ctscatera,2007,73846,139506,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+hyundai,accent,2012,23238,289023,Crossover,4,Automatic Transmission,Gasoline,White, Sharjah
+dodge,challenger,2010,44544,114268,Coupe,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,prado,2005,154658,120596,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,altima,2017,27047,202697,Sedan,4,Automatic Transmission,Gasoline,Silver, Sharjah
+lamborghini,aventador,2017,2920855,228130,Hard Top Convertible,12,Automatic Transmission,Gasoline,Red, Dubai
+lexus,lx600,2019,663743,258347,SUV,6,Automatic Transmission,Gasoline,Other Color, Sharjah
+chevrolet,equinox,2017,44924,103990,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+dodge,charger,2017,59858,77286,Sedan,8,Automatic Transmission,Gasoline,Red, Dubai
+cadillac,escalade,2011,485660,61747,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,pickup,2014,208575,106517,Other,6,Manual Transmission,Gasoline,Other Color, Dubai
+nissan,patrol,2022,266937,229300,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+volkswagen,touareg,2010,33982,276827,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+gmc,sierra,2019,96098,231924,Pick Up Truck,6,Automatic Transmission,Gasoline,Black, Dubai
+toyota,camry,2011,68009,26116,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+mini,cooper,2024,54406,250375,Hatchback,4,Automatic Transmission,Gasoline,Grey, Dubai
+nissan,patrol,2020,57764,57419,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2024,230764,130502,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+ford,expedition,2013,35121,252925,SUV,6,Automatic Transmission,Gasoline,Green, Dubai
+dodge,challenger,2006,98551,198176,Sports Car,8,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover,2012,1150500,294622,SUV,8,Automatic Transmission,Gasoline,Gold, Dubai
+nissan,altima,2012,40841,166681,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,s-class,2017,267679,157014,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+ford,escape,2019,31973,247921,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2023,1231940,280075,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+audi,rs6,2010,126184,276073,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+toyota,land-cruiser,2020,31344,47863,Sedan,8,Automatic Transmission,Gasoline,White, Sharjah
+lexus,nx-300,2013,141846,163030,SUV,4,Automatic Transmission,Gasoline,Silver, Sharjah
+bentley,bentayga,2017,524626,20356,SUV,12,Automatic Transmission,Gasoline,White, Sharjah
+mercedes-benz,e-class,2020,111397,220057,Sedan,8,Automatic Transmission,Gasoline,Silver, Ajman
+hyundai,tucson,2011,51389,59977,SUV,4,Automatic Transmission,Gasoline,Gold, Sharjah
+lamborghini,urus,2010,1603255,211970,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+audi,a6,2021,49806,112376,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+infiniti,q50,2018,103566,147201,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+volkswagen,teramont,2022,137041,278791,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,gls-class,2022,1578000,41366,SUV,8,Automatic Transmission,Gasoline,Red, Dubai
+cadillac,ct6,2020,125018,298675,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+lamborghini,urus,2013,2245850,254968,SUV,8,Automatic Transmission,Gasoline,Yellow, Dubai
+mercedes-benz,g-class,2007,1022382,245416,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+nissan,patrol,2020,163564,273398,SUV,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+mercedes-benz,amg,2023,292145,206671,Coupe,8,Automatic Transmission,Gasoline,White, Dubai
+lamborghini,huracan,2011,1590833,56274,Coupe,10,Automatic Transmission,Gasoline,Green, Dubai
+audi,rs6,2023,885726,41998,Wagon,8,Automatic Transmission,Gasoline,Green, Dubai
+mercedes-benz,s-class,2014,240957,164433,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+jeep,grand-cherokee,2024,208804,130195,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+toyota,fortuner,2007,134417,33757,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+bentley,bentayga,2023,905664,185860,SUV,12,Automatic Transmission,Gasoline,Beige, Dubai
+hyundai,sonata,2016,41214,283901,Sedan,4,Automatic Transmission,Gasoline,White, Sharjah
+lincoln,mkz,2009,63116,255662,Sedan,4,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,e-class,2017,244652,159732,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+maserati,quattroporte,2008,39225,63868,Sedan,6,Automatic Transmission,Gasoline,Green, Dubai
+lamborghini,urus,2016,1933804,277786,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+hyundai,sonata,2019,24779,263049,Sedan,4,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+rolls-royce,cullinan,2007,1723981,93778,SUV,12,Automatic Transmission,Gasoline,Red, Dubai
+infiniti,qx50,2007,39013,18368,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+volkswagen,jetta,2024,43256,125459,Sedan,5,Automatic Transmission,Gasoline,White, Sharjah
+volvo,xc60,2006,30505,213431,SUV,4,Automatic Transmission,Gasoline,Blue, Abu Dhabi
+ford,mustang,2005,54009,68179,Sports Car,6,Automatic Transmission,Gasoline,Red, Dubai
+lincoln,other,2024,167322,120953,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+ford,edge,2011,39897,48910,SUV,6,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+mini,countryman,2009,85045,284379,Hatchback,4,Automatic Transmission,Gasoline,Silver, Dubai
+land-rover,lr4,2009,55449,219417,SUV,8,Automatic Transmission,Gasoline,Black, Abu Dhabi
+mitsubishi,asx,2006,29643,187885,Crossover,4,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover-sport,2018,195298,135429,SUV,6,Automatic Transmission,Gasoline,Gold, Dubai
+mercedes-benz,s-class,2019,45641,132592,Sedan,8,Automatic Transmission,Gasoline,Silver, Sharjah
+mitsubishi,pajero,2018,70476,247374,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+volkswagen,tiguan,2011,75407,113069,SUV,4,Automatic Transmission,Gasoline,Brown, Dubai
+bmw,3-series,2011,190834,187345,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+lexus,ls-series,2015,12685,80171,Sedan,8,Automatic Transmission,Gasoline,White, Sharjah
+porsche,cayenne,2013,79578,57003,SUV,8,Automatic Transmission,Gasoline,White, Abu Dhabi
+toyota,yaris,2005,31235,111354,Hatchback,4,Automatic Transmission,Gasoline,White, Dubai
+honda,accord,2020,71359,298651,Sedan,4,Automatic Transmission,Gasoline,Black, Sharjah
+porsche,carrera,2024,795652,156512,Sports Car,6,Automatic Transmission,Gasoline,Blue, Dubai
+toyota,yaris,2018,52167,20896,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+lexus,ls-series,2023,98918,271859,Sedan,8,Automatic Transmission,Gasoline,Silver, Sharjah
+gmc,sierra,2016,41964,33926,Pick Up Truck,8,Automatic Transmission,Gasoline,Red, Sharjah
+mercedes-benz,g-class,2022,845325,16461,SUV,8,Automatic Transmission,Gasoline,Gold, Dubai
+kia,sportage,2009,29626,101836,SUV,4,Automatic Transmission,Gasoline,Orange, Dubai
+nissan,murano,2022,9353,185001,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+nissan,murano,2014,11674,99649,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover-sport,2005,688535,153244,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+land-rover,range-rover-sport,2021,199599,137410,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+jeep,wrangler-unlimited,2020,60745,190374,SUV,6,Manual Transmission,Gasoline,White, Sharjah
+mercedes-benz,s-class,2011,190824,103819,Sedan,8,Automatic Transmission,Gasoline,Black, Dubai
+volvo,xc90,2015,127144,113700,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+chevrolet,tahoe,2011,258645,260411,SUV,8,Automatic Transmission,Gasoline,Other Color, Dubai
+lexus,lx-series,2016,96114,270611,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+honda,hr-v,2014,48157,17395,SUV,4,Automatic Transmission,Gasoline,Grey, Dubai
+land-rover,discovery,2008,112852,97581,SUV,4,Automatic Transmission,Gasoline,Black, Dubai
+porsche,macan,2019,185242,207055,SUV,6,Automatic Transmission,Gasoline,Grey, Al Ain
+lexus,is-c,2016,78809,215426,Sedan,6,Automatic Transmission,Gasoline,Red, Sharjah
+maserati,levante,2015,265675,48408,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,g-class,2019,769927,141273,SUV,8,Automatic Transmission,Gasoline,Black,Al Ain
+bentley,continental-gt,2023,288854,142373,Coupe,8,Automatic Transmission,Gasoline,Blue, Dubai
+tesla,model-3,2023,189134,68107,Sedan,4,Automatic Transmission,Electric,Silver, Dubai
+mercedes-benz,cla,2022,223072,98618,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+gmc,terrain,2018,75512,294272,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
+kia,sportage,2007,46382,290194,SUV,4,Automatic Transmission,Gasoline,Red, Dubai
+renault,koleos,2021,12486,193586,SUV,4,Automatic Transmission,Gasoline,Silver, Dubai
+toyota,prado,2017,82178,77051,SUV,6,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,amg,2021,1269951,115634,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+infiniti,q80,2013,197067,72492,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,gls-class,2008,1169294,130142,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,s-class,2023,553016,200757,Sedan,6,Automatic Transmission,Gasoline,Grey, Dubai
+lexus,is-series,2023,39522,241068,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+chevrolet,corvette,2009,41776,218559,Coupe,8,Automatic Transmission,Gasoline,Black, Dubai
+honda,civic,2014,57068,155616,Sedan,4,Automatic Transmission,Gasoline,Purple, Dubai
+hyundai,sonata,2019,42298,247293,Sedan,4,Automatic Transmission,Gasoline,Red, Ajman
+mini,mini-coupe,2016,45411,171353,Coupe,4,Automatic Transmission,Gasoline,Beige, Dubai
+mercedes-benz,viano,2005,43554,297183,Van,6,Automatic Transmission,Gasoline,Silver, Abu Dhabi
+gmc,yukon,2005,68151,226892,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+bmw,6-series,2009,33763,126750,Coupe,6,Automatic Transmission,Gasoline,White, Dubai
+ford,focus,2006,16733,230249,Hatchback,4,Automatic Transmission,Gasoline,Blue, Dubai
+land-rover,range-rover-velar,2022,244019,286398,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+toyota,hilux,2007,85132,168030,Pick Up Truck,4,Manual Transmission,Diesel,White, Dubai
+mitsubishi,l200,2021,35790,204690,Van,4,Manual Transmission,Gasoline,White, Sharjah
+nissan,sentra,2018,37761,96490,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+nissan,patrol,2007,127089,210436,SUV,8,Automatic Transmission,Gasoline,Green, Dubai
+mercedes-benz,e-class,2013,116835,259976,Coupe,6,Automatic Transmission,Gasoline,Black, Dubai
+jeep,wrangler,2006,91973,243179,SUV,6,Automatic Transmission,Gasoline,Red, Dubai
+infiniti,q80,2007,86729,151217,SUV,8,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+hyundai,h1,2005,23837,53000,Van,4,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,traverse,2023,25830,83388,SUV,6,Automatic Transmission,Gasoline,White, Sharjah
+lexus,is-series,2020,81942,95726,Sedan,6,Automatic Transmission,Gasoline,Black, Sharjah
+mercedes-benz,cls-class,2010,89585,62640,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+lexus,ls-series,2018,21205,191732,Sedan,8,Automatic Transmission,Gasoline,Grey, Sharjah
+porsche,carrera,2021,155638,37477,Coupe,6,Automatic Transmission,Gasoline,Silver, Dubai
+ford,pickup,2018,290610,255169,Pick Up Truck,6,Automatic Transmission,Gasoline,Red, Dubai
+mercedes-benz,c-class,2009,36538,267427,Sedan,6,Automatic Transmission,Gasoline,Black, Dubai
+kia,cerato,2021,32976,127746,Sedan,4,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,land-cruiser,2013,136446,282843,SUV,6,Automatic Transmission,Gasoline,White,Ajman
+lexus,ls-series,2024,21208,119531,Sedan,8,Automatic Transmission,Gasoline,Silver, Sharjah
+jeep,other,2014,491801,207910,SUV,8,Automatic Transmission,Gasoline,White, Dubai
+nissan,altima,2006,12157,199090,Sedan,4,Automatic Transmission,Gasoline,Black, Sharjah
+cadillac,escalade,2016,559800,58086,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2018,139518,232420,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+toyota,land-cruiser,2014,302691,138915,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+bentley,bentayga,2019,592515,232313,SUV,12,Automatic Transmission,Gasoline,Blue, Dubai
+dodge,challenger,2017,76484,102173,Coupe,6,Automatic Transmission,Gasoline,Black, Dubai
+porsche,panamera,2021,71924,233446,Sedan,6,Automatic Transmission,Gasoline,Silver, Dubai
+mercedes-benz,gle-class,2017,393330,202883,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+jeep,grand-cherokee,2010,40794,222330,SUV,6,Automatic Transmission,Gasoline,Black, Dubai
+nissan,patrol,2008,94410,269028,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+mercedes-benz,s-class,2007,57711,26609,Sedan,6,Automatic Transmission,Gasoline,White, Dubai
+land-rover,range-rover-sport,2024,139041,295662,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+bmw,7-series,2017,173026,72404,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2017,931707,150107,SUV,8,Automatic Transmission,Gasoline,Blue, Dubai
+ferrari,roma,2015,1167560,289168,Sports Car,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,e-class,2009,49606,49768,Sedan,6,Automatic Transmission,Gasoline,Silver, Dubai
+ferrari,f12,2013,904762,197203,Sports Car,12,Automatic Transmission,Gasoline,White, Dubai
+ford,explorer,2015,122568,104640,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+volkswagen,other,2007,106400,46625,Crossover,4,Automatic Transmission,Electric,White, Dubai
+mercedes-benz,g-class,2013,641954,168961,Wagon,8,Automatic Transmission,Gasoline,White, Dubai
+gmc,acadia,2011,85628,44557,SUV,6,Automatic Transmission,Gasoline,White, Sharjah
+toyota,land-cruiser,2008,161542,245062,Pick Up Truck,6,Manual Transmission,Gasoline,Beige, Dubai
+mercedes-benz,amg,2010,616817,96951,Coupe,8,Automatic Transmission,Gasoline,Green, Dubai
+mercedes-benz,s-class,2018,384085,131136,Sedan,6,Automatic Transmission,Gasoline,Blue, Dubai
+jaguar,xf,2005,70766,250448,Sedan,4,Automatic Transmission,Gasoline,Black, Dubai
+land-rover,range-rover-sport,2020,647500,163830,SUV,8,Automatic Transmission,Gasoline,Grey, Dubai
+lamborghini,urus,2017,1354987,285046,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+bmw,x5,2018,291338,86806,SUV,6,Automatic Transmission,Gasoline,Blue, Dubai
+mercedes-benz,e-class,2022,67122,200783,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+lamborghini,urus,2024,1183578,296995,SUV,8,Automatic Transmission,Gasoline,Silver, Dubai
+toyota,yaris,2009,32656,254828,Hatchback,4,Automatic Transmission,Gasoline,White, Dubai
+bmw,7-series,2009,123459,193010,Sedan,8,Automatic Transmission,Gasoline,Brown, Dubai
+toyota,rush,2006,56724,278993,SUV,4,Automatic Transmission,Gasoline,White, Dubai
+mercedes-benz,g-class,2013,263535,115970,SUV,6,Automatic Transmission,Diesel,Blue, Dubai
+bmw,6-series,2016,41618,57625,Soft Top Convertible,8,Automatic Transmission,Gasoline,Silver, Dubai
+audi,a5,2018,42030,167060,Coupe,4,Automatic Transmission,Gasoline,White, Dubai
+kia,rio,2011,16363,35989,Hatchback,4,Automatic Transmission,Gasoline,Red, Dubai
+infiniti,q80,2020,51983,251296,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+chevrolet,suburban,2005,128109,135307,SUV,8,Automatic Transmission,Gasoline,Grey, Abu Dhabi
+ford,f-series-pickup,2010,172608,88894,Pick Up Truck,6,Automatic Transmission,Gasoline,Burgundy, Dubai
+land-rover,range-rover,2010,529636,262297,SUV,6,Automatic Transmission,Gasoline,White, Dubai
+toyota,corolla,2014,56888,266383,Sedan,4,Automatic Transmission,Gasoline,White, Dubai
+kia,quoris,2007,54346,174735,Sedan,6,Automatic Transmission,Gasoline,Brown, Dubai
+cadillac,escalade,2006,560381,205727,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,cls-class,2005,315924,208783,Coupe,6,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,camaro,2015,199340,287310,Coupe,8,Automatic Transmission,Gasoline,Red, Dubai
+gmc,yukon,2015,256277,129073,SUV,8,Automatic Transmission,Gasoline,Black, Dubai
+mercedes-benz,c-class,2008,253150,233072,Sedan,8,Automatic Transmission,Gasoline,White, Dubai
+chevrolet,silverado,2022,108441,245732,Pick Up Truck,6,Automatic Transmission,Gasoline,Grey, Dubai
+toyota,land-cruiser,2009,66738,67026,SUV,6,Automatic Transmission,Gasoline,Grey, Dubai
