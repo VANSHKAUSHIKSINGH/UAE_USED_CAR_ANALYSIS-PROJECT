@@ -26,19 +26,23 @@
 📬 Contact
 
 📘 Project Overview
-This project aims to predict used car prices in the UAE using machine learning techniques. It leverages a real-world dataset with features such as brand, model, year, mileage, fuel type, and transmission.
-The goal is to build a predictive model to support car buyers, sellers, and dealerships in making fair, data-driven pricing decisions.
+
+ - This project aims to predict used car prices in the UAE using machine learning techniques. It leverages a real-world dataset with   features such as brand, model, year, mileage, fuel type, and transmission.
+
+- The goal is to build a predictive model to support car buyers, sellers, and dealerships in making fair, data-driven pricing decisions.
 
 🎯 Objective
-Clean and preprocess the dataset
 
-Analyze patterns in features like brand, mileage, year, and price
+- Clean and preprocess the dataset
 
-Train and evaluate regression models to predict car prices
+- Analyze patterns in features like brand, mileage, year, and price
 
-Select the best model based on accuracy and error metrics
+- Train and evaluate regression models to predict car prices
+
+- Select the best model based on accuracy and error metrics
 
 📊 Dataset Description
+
 Feature	                     Description
 Brand	                        Manufacturer of the vehicle (e.g. Toyota)
 Model	                        Model name of the car
@@ -52,56 +56,58 @@ Location                   	Location of the car in the UAE
 Price (Target)	               Resale price of the car in AED
 
 🔍 Exploratory Data Analysis
+
 Key insights:
 
-Toyota, Nissan, and BMW are the most common brands
+- Toyota, Nissan, and BMW are the most common brands
 
-Newer cars with lower mileage are priced significantly higher
+- Newer cars with lower mileage are priced significantly higher
 
-Automatic transmission dominates listings
+- Automatic transmission dominates listings
 
-SUVs and Sedans have a higher average price
+- SUVs and Sedans have a higher average price
 
 
 ⚙️ Machine Learning Workflow
 
 ✅ Preprocessing Steps
 
-Handled missing values and outliers
+- Handled missing values and outliers
 
-Used OneHotEncoder and BinaryEncoder for categorical data
+- Used OneHotEncoder and BinaryEncoder for categorical data
 
-Applied StandardScaler to normalize mileage and numerical fields
+- Applied StandardScaler to normalize mileage and numerical fields
 
 🤖 Models Trained
 
-K-Nearest Neighbors (KNN)
+- K-Nearest Neighbors (KNN)
 
-Random Forest Regressor
+- Random Forest Regressor
 
-XGBoost Regressor
+- XGBoost Regressor
 
-CatBoost Regressor (Best Model)
+- CatBoost Regressor (Best Model)
 
 🏆 Model Performance
-Model	          R² Score	   MAE	    RMSE
-KNN	          0.4609	      0.55	    0.71
-Random Forest	 0.6145	      0.46	    0.60
-XGBoost	       0.6091	      0.47	    0.61
-CatBoost	   ✅ 0.6342	     ✅0.45	✅ 0.59
+
+Model	              R² Score	              MAE	            RMSE
+KNN	          0.4609	                    0.55	         0.71
+Random Forest	 0.6145	                    0.46	         0.60
+XGBoost	       0.6091	                    0.47	         0.61
+CatBoost	   ✅ 0.6342	                 ✅  0.45	      ✅ 0.59
 
 📉 CatBoost outperformed all other models in R² score, MAE, and RMSE, making it the most reliable choice.
 
 📊 (Insert model performance bar charts here)
 
 💡 Key Insights
-CatBoost Regressor was the best-performing model on the dataset
+- CatBoost Regressor was the best-performing model on the dataset
 
-Preprocessing and encoding techniques directly impacted model accuracy
+- Preprocessing and encoding techniques directly impacted model accuracy
 
-Features like Model, Year, Mileage, Brand, and Transmission are highly influential
+- Features like Model, Year, Mileage, Brand, and Transmission are highly influential
 
-The model could serve as the core engine behind a used car price estimator app in the UAE market
+- The model could serve as the core engine behind a used car price estimator app in the UAE market
 
 🧠 Tech Stack Used
 
